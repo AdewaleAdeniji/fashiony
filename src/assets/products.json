@@ -1,0 +1,4141 @@
+[
+    {
+      "sku": "FA203FS35PAF4NAFAMZ",
+      "name": "Men's Sneakers Canvas-White",
+      "displayName": "Men's Sneakers Canvas-White",
+      "brand": "Fashion",
+      "sellerId": 309492,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers/Sneakers/Low-cut",
+      "prices": {
+        "rawPrice": "8000.00",
+        "price": "₦ 8,000",
+        "priceEuro": "16.34",
+        "taxEuro": "1.14",
+        "oldPrice": "₦ 11,000",
+        "oldPriceEuro": "22.47",
+        "discount": "27%"
+      },
+      "tags": "BF22|BF22_12|COL_272|CP_MT131|CP_MT136|CP_MT139|CP_MT143|CP_MT145|CP_MT31|DOW_85|DOW_87|JA22|JA22_3|TBOOST",
+      "rating": {
+        "average": 4.7,
+        "totalRatings": 69
+      },
+      "image" : "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/9765121/1.jpg?0266",
+      "url": "/fashion-mens-sneakers-canvas-white-121567909.html",
+      "isBuyable": true,
+      "simples": [
+        {
+          "sku": "FA203FS35PAF4NAFAMZ-167880144",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS35PAF4NAFAMZ-167880144&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 11,000",
+            "oldPriceEuro": "22.47",
+            "discount": "27%"
+          }
+        },
+        {
+          "sku": "FA203FS35PAF4NAFAMZ-167880145",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS35PAF4NAFAMZ-167880145&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 11,000",
+            "oldPriceEuro": "22.47",
+            "discount": "27%"
+          }
+        },
+        {
+          "sku": "FA203FS35PAF4NAFAMZ-167880146",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS35PAF4NAFAMZ-167880146&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 45",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 11,000",
+            "oldPriceEuro": "22.47",
+            "discount": "27%"
+          }
+        },
+        {
+          "sku": "FA203FS35PAF4NAFAMZ-167880147",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS35PAF4NAFAMZ-167880147&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 46",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 11,000",
+            "oldPriceEuro": "22.47",
+            "discount": "27%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203MW0IBIYKNAFAMZ",
+      "name": "Men Vintage Short Sleeve Stand Collar Shirt-Red",
+      "displayName": "Men Vintage Short Sleeve Stand Collar Shirt-Red",
+      "brand": "Fashion",
+      "sellerId": 140100,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/Casual Button-Down Shirts/Patterned",
+      "prices": {
+        "rawPrice": "1556.00",
+        "price": "₦ 1,556",
+        "priceEuro": "3.18",
+        "taxEuro": "0.22",
+        "oldPrice": "₦ 3,051",
+        "oldPriceEuro": "6.23",
+        "discount": "49%"
+      },
+      "tags": "BF21_UN3|BF22_12|COL_320|CP_MT103|CP_MT105|CP_MT114|CP_MT128|CP_MT129|CP_MT134|CP_MT136|CP_MT138|CP_MT139|CP_MT145|CP_MT149|CP_MT150|CP_MT23|CP_MT36|CP_MT45|CP_MT46|CP_MT49|CP_MT54|CP_MT71|CP_MT73|CP_MT75|CP_MT76|CP_MT91|CP_MT95|CP_MT96|CP_MT97|CP_UN153|CP_UN249|Camp_4|Camp_45|DOW_305|DOW_85|FDY2020|FDYJE|JA21|JA21_UN6|JA22|JA22_3|Merch_150|Merch_190|Merch_33|PRE|TBOOST|XMAS|XMAS22_01",
+      "rating": {
+        "average": 3.9,
+        "totalRatings": 392
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/30/770876/1.jpg?7171",
+      "url": "/fashion-men-vintage-short-sleeve-stand-collar-shirt-red-67807703.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203MW0IBIYKNAFAMZ-95070163",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0IBIYKNAFAMZ-95070163&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "1556.00",
+            "price": "₦ 1,556",
+            "priceEuro": "3.18",
+            "taxEuro": "0.22",
+            "oldPrice": "₦ 3,051",
+            "oldPriceEuro": "6.23",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "FA203MW0IBIYKNAFAMZ-95070164",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0IBIYKNAFAMZ-95070164&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "L",
+          "prices": {
+            "rawPrice": "1556.00",
+            "price": "₦ 1,556",
+            "priceEuro": "3.18",
+            "taxEuro": "0.22",
+            "oldPrice": "₦ 3,051",
+            "oldPriceEuro": "6.23",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "FA203MW0IBIYKNAFAMZ-95070165",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0IBIYKNAFAMZ-95070165&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "1556.00",
+            "price": "₦ 1,556",
+            "priceEuro": "3.18",
+            "taxEuro": "0.22",
+            "oldPrice": "₦ 3,051",
+            "oldPriceEuro": "6.23",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "FA203MW0IBIYKNAFAMZ-95070166",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0IBIYKNAFAMZ-95070166&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "1556.00",
+            "price": "₦ 1,556",
+            "priceEuro": "3.18",
+            "taxEuro": "0.22",
+            "oldPrice": "₦ 3,051",
+            "oldPriceEuro": "6.23",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "FA203MW0IBIYKNAFAMZ-95070167",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0IBIYKNAFAMZ-95070167&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "4599.00",
+            "price": "₦ 4,599",
+            "priceEuro": "9.39",
+            "taxEuro": "0.66",
+            "oldPrice": "₦ 12,000",
+            "oldPriceEuro": "24.51",
+            "discount": "62%"
+          }
+        },
+        {
+          "sku": "FA203MW0IBIYKNAFAMZ-95070168",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0IBIYKNAFAMZ-95070168&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXXL",
+          "prices": {
+            "rawPrice": "4599.00",
+            "price": "₦ 4,599",
+            "priceEuro": "9.39",
+            "taxEuro": "0.66",
+            "oldPrice": "₦ 12,000",
+            "oldPriceEuro": "24.51",
+            "discount": "62%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203AA172BVWNAFAMZ",
+      "name": "Six Pairs-in-1 Quality Ankle Socks",
+      "displayName": "Six Pairs-in-1 Quality Ankle Socks",
+      "brand": "Fashion",
+      "sellerId": 38273,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Socks",
+      "prices": {
+        "rawPrice": "1600.00",
+        "price": "₦ 1,600",
+        "priceEuro": "3.27",
+        "taxEuro": "0.23",
+        "oldPrice": "₦ 4,000",
+        "oldPriceEuro": "8.17",
+        "discount": "60%"
+      },
+      "tags": "BF21|BF21_UN3|BF22|BF22_12|BFEST21_UN2|BFEST_12|Boost|COL_239|COL_261|COL_273|CP_MT1|CP_MT103|CP_MT105|CP_MT114|CP_MT127|CP_MT128|CP_MT129|CP_MT131|CP_MT134|CP_MT136|CP_MT138|CP_MT139|CP_MT143|CP_MT145|CP_MT15|CP_MT23|CP_MT3|CP_MT45|CP_MT56|CP_MT63|CP_MT7|CP_MT71|CP_MT73|CP_MT75|CP_MT76|CP_MT78|CP_MT82|CP_MT85|CP_MT88|CP_MT9|CP_MT95|CP_MT96|CP_UN130|CP_UN143|CP_UN153|CP_UN200|CP_UN300|CP_UN33|CP_UN5|CP_UN59|CP_UN63|CP_UN78|CP_UN92|Camp_1|Camp_45|Camp_72|DOW_119|DOW_142|DOW_176|DOW_179|DOW_186|DOW_198|DOW_219|DOW_248|DOW_252|DOW_253|DOW_255|DOW_271|DOW_309|DOW_311|DOW_324|DOW_35|DOW_353|DOW_364|DOW_366|DOW_376|DOW_383|DOW_388|DOW_85|FDY2020|FDYJE|GAM0|INF_94|JA21|JA21_UN12|JA21_UN14|JA21_UN15|JA21_UN6|JA22|JA22_3|Merch_150|Merch_189|Merch_27|Merch_32|TBOOST|UND_22|UND_29|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 4.1,
+        "totalRatings": 6606
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/72/332204/1.jpg?2782",
+      "url": "/fashion-six-pairs-in-1-quality-ankle-socks-40223327.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203AA172BVWNAFAMZ-54743670",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA172BVWNAFAMZ-54743670&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "One size",
+          "prices": {
+            "rawPrice": "1600.00",
+            "price": "₦ 1,600",
+            "priceEuro": "3.27",
+            "taxEuro": "0.23",
+            "oldPrice": "₦ 4,000",
+            "oldPriceEuro": "8.17",
+            "discount": "60%"
+          }
+        }
+      ],
+      "selectedVariation": "FA203AA172BVWNAFAMZ-54743670",
+      "variationSelection": true
+    },
+    {
+      "sku": "EI556FC33N4U2NAFAMZ",
+      "name": "B06 Casual Crossbody Shoulder Chest Bag-Grey",
+      "displayName": "EILIFINTE B06 Casual Crossbody Shoulder Chest Bag-Grey",
+      "brand": "EILIFINTE",
+      "sellerId": 108971,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Bags/Messenger Bags",
+      "prices": {
+        "rawPrice": "1920.00",
+        "price": "₦ 1,920",
+        "priceEuro": "3.92",
+        "taxEuro": "0.27",
+        "oldPrice": "₦ 6,800",
+        "oldPriceEuro": "13.89",
+        "discount": "72%"
+      },
+      "tags": "BF22|BF22_12|Boost|CP_MT104|CP_MT114|CP_MT129|CP_MT131|CP_MT134|CP_MT136|CP_MT138|CP_MT143|CP_MT145|CP_MT96|DOW_85|FDYJE|INF_94|JA22|JA22_3|MLP102|TBOOST|UND_29|UND_33|UND_34|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.7,
+        "totalRatings": 1413
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/5167301/1.jpg?7673",
+      "url": "/eilifinte-b06-casual-crossbody-shoulder-chest-bag-grey-103761578.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "EI556FC33N4U2NAFAMZ-141631399",
+          "loginUrl": "/customer/account/login/?tkWl=EI556FC33N4U2NAFAMZ-141631399&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "",
+          "prices": {
+            "rawPrice": "1920.00",
+            "price": "₦ 1,920",
+            "priceEuro": "3.92",
+            "taxEuro": "0.27",
+            "oldPrice": "₦ 6,800",
+            "oldPriceEuro": "13.89",
+            "discount": "72%"
+          }
+        }
+      ],
+      "selectedVariation": "EI556FC33N4U2NAFAMZ-141631399"
+    },
+    {
+      "sku": "FA203AA0F5PZXNAFAMZ",
+      "name": "100% Cotton T-shirt 4 Pcs Shirts Men's Fashion Short Sleeve",
+      "displayName": "100% Cotton T-shirt 4 Pcs Shirts Men's Fashion Short Sleeve",
+      "brand": "Fashion",
+      "sellerId": 109703,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/T-Shirts",
+      "prices": {
+        "rawPrice": "7900.00",
+        "price": "₦ 7,900 - ₦ 8,500",
+        "priceEuro": "16.14",
+        "taxEuro": "1.13",
+        "oldPrice": "₦ 14,593",
+        "oldPriceEuro": "29.81",
+        "discount": "46%"
+      },
+      "tags": "BF21|BF21_UN3|BF22|BF22_12|Boost|COL_217|COL_239|COL_66|CP_67|CP_75|CP_MT102|CP_MT103|CP_MT105|CP_MT114|CP_MT128|CP_MT129|CP_MT131|CP_MT134|CP_MT136|CP_MT138|CP_MT139|CP_MT145|CP_MT149|CP_MT15|CP_MT150|CP_MT49|CP_MT56|CP_MT63|CP_MT71|CP_MT88|CP_MT91|CP_MT95|CP_MT96|CP_MT97|CP_UN128|CP_UN130|CP_UN200|CP_UN78|CP_UN92|Camp_45|DOW_119|DOW_142|DOW_179|DOW_215|DOW_219|DOW_226|DOW_311|DOW_343|DOW_353|DOW_85|FDY2020|FDYJE|GAM0|INF_94|JA22|JA22_3|Merch_150|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.9,
+        "totalRatings": 1831
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/25/461213/1.jpg?6331",
+      "url": "/4-pcs-mens-summer-fashion-cotton-short-sleeve-cartoon-printed-young-men-t-shirt-round-collar-slim-fashion-mpg1481322.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203AA0F5PZXNAFAMZ-41206553",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA0F5PZXNAFAMZ-41206553&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "7900.00",
+            "price": "₦ 7,900",
+            "priceEuro": "16.14",
+            "taxEuro": "1.13",
+            "oldPrice": "₦ 14,593",
+            "oldPriceEuro": "29.81",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "FA203AA0F5PZXNAFAMZ-41206554",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA0F5PZXNAFAMZ-41206554&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "8500.00",
+            "price": "₦ 8,500",
+            "priceEuro": "17.36",
+            "taxEuro": "1.21",
+            "oldPrice": "₦ 14,593",
+            "oldPriceEuro": "29.81",
+            "discount": "42%"
+          }
+        },
+        {
+          "sku": "FA203AA0F5PZXNAFAMZ-41206555",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA0F5PZXNAFAMZ-41206555&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "8500.00",
+            "price": "₦ 8,500",
+            "priceEuro": "17.36",
+            "taxEuro": "1.21",
+            "oldPrice": "₦ 14,593",
+            "oldPriceEuro": "29.81",
+            "discount": "42%"
+          }
+        },
+        {
+          "sku": "FA203AA0F5PZXNAFAMZ-41206556",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA0F5PZXNAFAMZ-41206556&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "8500.00",
+            "price": "₦ 8,500",
+            "priceEuro": "17.36",
+            "taxEuro": "1.21",
+            "oldPrice": "₦ 14,593",
+            "oldPriceEuro": "29.81",
+            "discount": "42%"
+          }
+        },
+        {
+          "sku": "FA203AA0F5PZXNAFAMZ-41206558",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA0F5PZXNAFAMZ-41206558&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "8500.00",
+            "price": "₦ 8,500",
+            "priceEuro": "17.36",
+            "taxEuro": "1.21",
+            "oldPrice": "₦ 14,593",
+            "oldPriceEuro": "29.81",
+            "discount": "42%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "VE566MW1I773NNAFAMZ",
+      "name": "T09  Men's 2 In 1 Short Sleeve T-Shirt & Shorts Set-Black",
+      "displayName": "VEJARO T09  Men's 2 In 1 Short Sleeve T-Shirt & Shorts Set-Black",
+      "brand": "VEJARO",
+      "sellerId": 275832,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/T-Shirts",
+      "prices": {
+        "rawPrice": "3980.00",
+        "price": "₦ 3,980",
+        "priceEuro": "8.13",
+        "taxEuro": "0.57",
+        "oldPrice": "₦ 12,800",
+        "oldPriceEuro": "26.14",
+        "discount": "69%"
+      },
+      "tags": "BF22|BF22_12|Boost|CP_MT104|CP_MT114|CP_MT131|CP_MT136|CP_MT96|FDYJE|INF_93|INF_97|JA22|MLP102|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.6,
+        "totalRatings": 239
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/91/035059/1.jpg?8702",
+      "url": "/vejaro-t09-mens-2-in-1-short-sleeve-t-shirt-shorts-set-black-95053019.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "VE566MW1I773NNAFAMZ-130301850",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW1I773NNAFAMZ-130301850&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "M",
+          "prices": {
+            "rawPrice": "3980.00",
+            "price": "₦ 3,980",
+            "priceEuro": "8.13",
+            "taxEuro": "0.57",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "69%"
+          }
+        },
+        {
+          "sku": "VE566MW1I773NNAFAMZ-130301851",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW1I773NNAFAMZ-130301851&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "3980.00",
+            "price": "₦ 3,980",
+            "priceEuro": "8.13",
+            "taxEuro": "0.57",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "69%"
+          }
+        },
+        {
+          "sku": "VE566MW1I773NNAFAMZ-130301852",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW1I773NNAFAMZ-130301852&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "3980.00",
+            "price": "₦ 3,980",
+            "priceEuro": "8.13",
+            "taxEuro": "0.57",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "69%"
+          }
+        },
+        {
+          "sku": "VE566MW1I773NNAFAMZ-130301853",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW1I773NNAFAMZ-130301853&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "3980.00",
+            "price": "₦ 3,980",
+            "priceEuro": "8.13",
+            "taxEuro": "0.57",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "69%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "JO089MW11NU19NAFAMZ",
+      "name": "Marshmello Printed Hoodie -Black",
+      "displayName": "Jones Wears Marshmello Printed Hoodie -Black",
+      "brand": "Jones Wears",
+      "sellerId": 179895,
+      "categories": "Fashion/Men's Fashion/Clothing/Fashion Hoodies & Sweatshirts/Fashion Hoodies",
+      "prices": {
+        "rawPrice": "4420.00",
+        "price": "₦ 4,420",
+        "priceEuro": "9.03",
+        "taxEuro": "0.63",
+        "oldPrice": "₦ 5,530 - ₦ 9,130",
+        "oldPriceEuro": "11.30",
+        "discount": "52%"
+      },
+      "tags": "BF21_UN3|BF22|BF22_12|Boost|COL_217|COL_273|CP_MT114|CP_MT129|CP_MT131|CP_MT133|CP_MT134|CP_MT136|CP_MT138|CP_MT139|CP_MT141|CP_MT143|CP_MT145|CP_MT149|CP_MT150|CP_MT36|CP_MT45|CP_MT46|CP_MT54|CP_MT56|CP_MT63|CP_MT71|CP_MT73|CP_MT75|CP_MT76|CP_MT78|CP_MT82|CP_MT85|CP_UN155|CP_UN158|CP_UN23|CP_UN249|CP_UN298|Camp_4|Camp_45|Camp_72|DOW_119|DOW_179|DOW_186|DOW_226|DOW_252|DOW_253|DOW_255|DOW_35|DOW_353|DOW_385|DOW_85|DOW_90|DOW_99|FDY2020|GAM0|INF_94|INF_99|JA22|JA22_3|Merch_150|Merch_33|RSCRE|TBOOST|UND_22|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.9,
+        "totalRatings": 1339
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/63/257805/1.jpg?2972",
+      "url": "/jones-wears-marshmello-printed-hoodie-black-50875236.html",
+      "isBuyable": true,
+      "simples": [
+        {
+          "sku": "JO089MW11NU19NAFAMZ-71972104",
+          "loginUrl": "/customer/account/login/?tkWl=JO089MW11NU19NAFAMZ-71972104&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "S",
+          "prices": {
+            "rawPrice": "4420.00",
+            "price": "₦ 4,420",
+            "priceEuro": "9.03",
+            "taxEuro": "0.63",
+            "oldPrice": "₦ 5,530",
+            "oldPriceEuro": "11.30",
+            "discount": "20%"
+          }
+        },
+        {
+          "sku": "JO089MW11NU19NAFAMZ-71972108",
+          "loginUrl": "/customer/account/login/?tkWl=JO089MW11NU19NAFAMZ-71972108&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "4420.00",
+            "price": "₦ 4,420",
+            "priceEuro": "9.03",
+            "taxEuro": "0.63",
+            "oldPrice": "₦ 5,990",
+            "oldPriceEuro": "12.23",
+            "discount": "26%"
+          }
+        },
+        {
+          "sku": "JO089MW11NU19NAFAMZ-71972112",
+          "loginUrl": "/customer/account/login/?tkWl=JO089MW11NU19NAFAMZ-71972112&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "4420.00",
+            "price": "₦ 4,420",
+            "priceEuro": "9.03",
+            "taxEuro": "0.63",
+            "oldPrice": "₦ 6,460",
+            "oldPriceEuro": "13.19",
+            "discount": "32%"
+          }
+        },
+        {
+          "sku": "JO089MW11NU19NAFAMZ-71972115",
+          "loginUrl": "/customer/account/login/?tkWl=JO089MW11NU19NAFAMZ-71972115&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "4420.00",
+            "price": "₦ 4,420",
+            "priceEuro": "9.03",
+            "taxEuro": "0.63",
+            "oldPrice": "₦ 6,920",
+            "oldPriceEuro": "14.13",
+            "discount": "36%"
+          }
+        },
+        {
+          "sku": "JO089MW11NU19NAFAMZ-71972120",
+          "loginUrl": "/customer/account/login/?tkWl=JO089MW11NU19NAFAMZ-71972120&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "4420.00",
+            "price": "₦ 4,420",
+            "priceEuro": "9.03",
+            "taxEuro": "0.63",
+            "oldPrice": "₦ 7,840",
+            "oldPriceEuro": "16.01",
+            "discount": "44%"
+          }
+        },
+        {
+          "sku": "JO089MW11NU19NAFAMZ-99334627",
+          "loginUrl": "/customer/account/login/?tkWl=JO089MW11NU19NAFAMZ-99334627&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "4420.00",
+            "price": "₦ 4,420",
+            "priceEuro": "9.03",
+            "taxEuro": "0.63",
+            "oldPrice": "₦ 8,760",
+            "oldPriceEuro": "17.89",
+            "discount": "50%"
+          }
+        },
+        {
+          "sku": "JO089MW11NU19NAFAMZ-109041176",
+          "loginUrl": "/customer/account/login/?tkWl=JO089MW11NU19NAFAMZ-109041176&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXXXL",
+          "prices": {
+            "rawPrice": "4420.00",
+            "price": "₦ 4,420",
+            "priceEuro": "9.03",
+            "taxEuro": "0.63",
+            "oldPrice": "₦ 9,130",
+            "oldPriceEuro": "18.65",
+            "discount": "52%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203MW0VAU51NAFAMZ",
+      "name": "Printing Sports T-shirts+Pants Suit(SHANYES)",
+      "displayName": "Printing Sports T-shirts+Pants Suit(SHANYES)",
+      "brand": "Fashion",
+      "sellerId": 153823,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/T-Shirts",
+      "prices": {
+        "rawPrice": "3900.00",
+        "price": "₦ 3,900 - ₦ 4,500",
+        "priceEuro": "7.97",
+        "taxEuro": "0.56",
+        "oldPrice": "₦ 7,936 - ₦ 11,900",
+        "oldPriceEuro": "16.21",
+        "discount": "67%"
+      },
+      "tags": "BF21|BF21_UN3|BF22|BF22_12|Boost|CP_MT114|CP_MT131|CP_MT136|CP_MT145|CP_MT149|CP_MT150|CP_MT49|CP_MT56|CP_MT63|CP_MT88|CP_MT91|CP_MT96|CP_UN130|CP_UN200|CP_UN78|DOW_85|FDYJE|Merch_190|TBOOST",
+      "rating": {
+        "average": 3.8,
+        "totalRatings": 103
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/52/573717/1.jpg?7111",
+      "url": "/fashion-printing-sports-t-shirtspants-suitshanyes-71737525.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203MW0VAU51NAFAMZ-99983116",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0VAU51NAFAMZ-99983116&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "4500.00",
+            "price": "₦ 4,500",
+            "priceEuro": "9.19",
+            "taxEuro": "0.64",
+            "oldPrice": "₦ 11,900",
+            "oldPriceEuro": "24.31",
+            "discount": "62%"
+          }
+        },
+        {
+          "sku": "FA203MW0VAU51NAFAMZ-99983117",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0VAU51NAFAMZ-99983117&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "4500.00",
+            "price": "₦ 4,500",
+            "priceEuro": "9.19",
+            "taxEuro": "0.64",
+            "oldPrice": "₦ 11,900",
+            "oldPriceEuro": "24.31",
+            "discount": "62%"
+          }
+        },
+        {
+          "sku": "FA203MW0VAU51NAFAMZ-99983118",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0VAU51NAFAMZ-99983118&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "4236.00",
+            "price": "₦ 4,236",
+            "priceEuro": "8.65",
+            "taxEuro": "0.60",
+            "oldPrice": "₦ 7,936",
+            "oldPriceEuro": "16.21",
+            "discount": "47%"
+          }
+        },
+        {
+          "sku": "FA203MW0VAU51NAFAMZ-99983119",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0VAU51NAFAMZ-99983119&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "4236.00",
+            "price": "₦ 4,236",
+            "priceEuro": "8.65",
+            "taxEuro": "0.60",
+            "oldPrice": "₦ 7,936",
+            "oldPriceEuro": "16.21",
+            "discount": "47%"
+          }
+        },
+        {
+          "sku": "FA203MW0VAU51NAFAMZ-99983120",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0VAU51NAFAMZ-99983120&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "4236.00",
+            "price": "₦ 4,236",
+            "priceEuro": "8.65",
+            "taxEuro": "0.60",
+            "oldPrice": "₦ 7,936",
+            "oldPriceEuro": "16.21",
+            "discount": "47%"
+          }
+        },
+        {
+          "sku": "FA203MW0VAU51NAFAMZ-212630313",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0VAU51NAFAMZ-212630313&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXXXL",
+          "prices": {
+            "rawPrice": "3900.00",
+            "price": "₦ 3,900",
+            "priceEuro": "7.97",
+            "taxEuro": "0.56",
+            "oldPrice": "₦ 11,900",
+            "oldPriceEuro": "24.31",
+            "discount": "67%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203MW1293ODNAFAMZ",
+      "name": "2 In 1 Men's Short Sleeve Shorts Set - White",
+      "displayName": "2 In 1 Men's Short Sleeve Shorts Set - White",
+      "brand": "Fashion",
+      "sellerId": 140100,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/T-Shirts",
+      "prices": {
+        "rawPrice": "3000.00",
+        "price": "₦ 3,000",
+        "priceEuro": "6.13",
+        "taxEuro": "0.43",
+        "oldPrice": "₦ 6,275",
+        "oldPriceEuro": "12.82",
+        "discount": "52%"
+      },
+      "tags": "BF21|BF21_UN3|CP_MT102|CP_MT114|CP_MT49|CP_MT88|CP_MT91|CP_MT96|CP_UN130|CP_UN200|CP_UN78|Camp_45|FDY2020|FDYJE|JA22|JA22_3",
+      "rating": {
+        "average": 3.8,
+        "totalRatings": 43
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/250077/1.jpg?0996",
+      "url": "/fashion-2-in-1-mens-short-sleeve-shorts-set-white-77005246.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203MW1293ODNAFAMZ-105983772",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW1293ODNAFAMZ-105983772&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "3000.00",
+            "price": "₦ 3,000",
+            "priceEuro": "6.13",
+            "taxEuro": "0.43",
+            "oldPrice": "₦ 6,275",
+            "oldPriceEuro": "12.82",
+            "discount": "52%"
+          }
+        },
+        {
+          "sku": "FA203MW1293ODNAFAMZ-105983773",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW1293ODNAFAMZ-105983773&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "3000.00",
+            "price": "₦ 3,000",
+            "priceEuro": "6.13",
+            "taxEuro": "0.43",
+            "oldPrice": "₦ 6,275",
+            "oldPriceEuro": "12.82",
+            "discount": "52%"
+          }
+        },
+        {
+          "sku": "FA203MW1293ODNAFAMZ-105983774",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW1293ODNAFAMZ-105983774&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "3000.00",
+            "price": "₦ 3,000",
+            "priceEuro": "6.13",
+            "taxEuro": "0.43",
+            "oldPrice": "₦ 6,275",
+            "oldPriceEuro": "12.82",
+            "discount": "52%"
+          }
+        },
+        {
+          "sku": "FA203MW1293ODNAFAMZ-105983775",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW1293ODNAFAMZ-105983775&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "3000.00",
+            "price": "₦ 3,000",
+            "priceEuro": "6.13",
+            "taxEuro": "0.43",
+            "oldPrice": "₦ 6,275",
+            "oldPriceEuro": "12.82",
+            "discount": "52%"
+          }
+        },
+        {
+          "sku": "FA203MW1293ODNAFAMZ-105983776",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW1293ODNAFAMZ-105983776&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "4500.00",
+            "price": "₦ 4,500",
+            "priceEuro": "9.19",
+            "taxEuro": "0.64",
+            "oldPrice": "₦ 9,000",
+            "oldPriceEuro": "18.38",
+            "discount": "50%"
+          }
+        },
+        {
+          "sku": "FA203MW1293ODNAFAMZ-105983777",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW1293ODNAFAMZ-105983777&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXXL",
+          "prices": {
+            "rawPrice": "9000.00",
+            "price": "₦ 9,000",
+            "priceEuro": "18.38",
+            "taxEuro": "1.28"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203AC1453T2NAFAMZ",
+      "name": "Feng Shui Black Obsidian Wealth Bracelet",
+      "displayName": "Feng Shui Black Obsidian Wealth Bracelet",
+      "brand": "Fashion",
+      "sellerId": 128681,
+      "isShopExpress": true,
+      "categories": "Fashion/Women's Fashion/Jewelry/Fashion/Bracelets/Stretch",
+      "prices": {
+        "rawPrice": "839.00",
+        "price": "₦ 839",
+        "priceEuro": "1.71",
+        "taxEuro": "0.12",
+        "oldPrice": "₦ 850",
+        "oldPriceEuro": "1.74",
+        "discount": "1%"
+      },
+      "tags": "BF21_UN3|BF22|BF22_12|BFEST21_UN3|BFEST_12|Boost|CP_MT1|CP_MT114|CP_MT128|CP_MT129|CP_MT131|CP_MT133|CP_MT134|CP_MT136|CP_MT138|CP_MT139|CP_MT143|CP_MT145|CP_MT15|CP_MT3|CP_MT36|CP_MT45|CP_MT46|CP_MT54|CP_MT56|CP_MT63|CP_MT7|CP_MT71|CP_MT82|CP_MT85|CP_MT92|CP_MT95|CP_MT96|CP_UN245|CP_UN300|CP_UN33|CP_UN5|CP_UN59|CP_UN92|Camp_1|Camp_4|Camp_45|Camp_56|DOW_143|DOW_179|DOW_186|DOW_198|DOW_214|DOW_219|DOW_226|DOW_248|DOW_253|DOW_255|DOW_268|DOW_309|DOW_35|DOW_99|FDY2020|FDYJE|GAM0|INF_94|JA21|JA21_UN14|JA21_UN15|JA21_UN6|JA22|JA22_12|Merch_150|Merch_191|Merch_29|TBOOST|UND_29|UND_33|UND_49|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.6,
+        "totalRatings": 3316
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/67/422854/1.jpg?4160",
+      "url": "/fashion-feng-shui-black-obsidian-wealth-bracelet-45822476.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203AC1453T2NAFAMZ-64997380",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AC1453T2NAFAMZ-64997380&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "",
+          "prices": {
+            "rawPrice": "839.00",
+            "price": "₦ 839",
+            "priceEuro": "1.71",
+            "taxEuro": "0.12",
+            "oldPrice": "₦ 850",
+            "oldPriceEuro": "1.74",
+            "discount": "1%"
+          }
+        }
+      ],
+      "selectedVariation": "FA203AC1453T2NAFAMZ-64997380"
+    },
+    {
+      "sku": "WL073FC1YZC23NAFAMZ",
+      "name": "Luminous Tungsten Steel  Waterproof Fashion Couple Watch",
+      "displayName": "Wlisth Luminous Tungsten Steel  Waterproof Fashion Couple Watch",
+      "brand": "Wlisth",
+      "sellerId": 238147,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Watches/Wrist Watches",
+      "prices": {
+        "rawPrice": "2999.00",
+        "price": "₦ 2,999",
+        "priceEuro": "6.13",
+        "taxEuro": "0.43",
+        "oldPrice": "₦ 5,683",
+        "oldPriceEuro": "11.61",
+        "discount": "47%"
+      },
+      "tags": "CP_MT96|FDYJE",
+      "rating": {
+        "average": 4,
+        "totalRatings": 40
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/2217071/1.jpg?0085",
+      "url": "/wlisth-luminous-tungsten-steel-waterproof-fashion-couple-watch-170712291.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "WL073FC1YZC23NAFAMZ-255255256",
+          "loginUrl": "/customer/account/login/?tkWl=WL073FC1YZC23NAFAMZ-255255256&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "",
+          "prices": {
+            "rawPrice": "2999.00",
+            "price": "₦ 2,999",
+            "priceEuro": "6.13",
+            "taxEuro": "0.43",
+            "oldPrice": "₦ 5,683",
+            "oldPriceEuro": "11.61",
+            "discount": "47%"
+          }
+        }
+      ],
+      "selectedVariation": "WL073FC1YZC23NAFAMZ-255255256"
+    },
+    {
+      "sku": "FA203FC356011NAFAMZ",
+      "name": "N013 Ladies Luxurious Elegant Love Button Necklace-Gold-like",
+      "displayName": "N013 Ladies Luxurious Elegant Love Button Necklace-Gold-like",
+      "brand": "Fashion",
+      "sellerId": 108971,
+      "isShopExpress": true,
+      "categories": "Fashion/Women's Fashion/Jewelry/Fashion/Necklaces",
+      "prices": {
+        "rawPrice": "1750.00",
+        "price": "₦ 1,750",
+        "priceEuro": "3.57",
+        "taxEuro": "0.25",
+        "oldPrice": "₦ 5,800",
+        "oldPriceEuro": "11.85",
+        "discount": "70%"
+      },
+      "tags": "BF22|BF22_12|Boost|CP_MT114|CP_MT131|CP_MT133|CP_MT136|CP_MT87|CP_MT96|FDYJE|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 4.4,
+        "totalRatings": 194
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/0765811/1.jpg?4264",
+      "url": "/fashion-n013-ladies-luxurious-elegant-love-button-necklace-gold-like-118567009.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203FC356011NAFAMZ-163502618",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FC356011NAFAMZ-163502618&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "",
+          "prices": {
+            "rawPrice": "1750.00",
+            "price": "₦ 1,750",
+            "priceEuro": "3.57",
+            "taxEuro": "0.25",
+            "oldPrice": "₦ 5,800",
+            "oldPriceEuro": "11.85",
+            "discount": "70%"
+          }
+        }
+      ],
+      "selectedVariation": "FA203FC356011NAFAMZ-163502618"
+    },
+    {
+      "sku": "WE732FS0BC5CGNAFAMZ",
+      "name": "2021 Mens Casual High-Top Shoes Running Sneakers - Beige",
+      "displayName": "2021 Mens Casual High-Top Shoes Running Sneakers - Beige",
+      "brand": "Fashion",
+      "sellerId": 246213,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers/Sneakers/High-top",
+      "prices": {
+        "rawPrice": "5999.00",
+        "price": "₦ 5,999 - ₦ 8,999",
+        "priceEuro": "12.25",
+        "taxEuro": "0.85",
+        "oldPrice": "₦ 16,680",
+        "oldPriceEuro": "34.07",
+        "discount": "64%"
+      },
+      "tags": "BF21_UN3|BF22_12|BFEST21_UN4|Boost|CP_63|CP_MT102|CP_MT103|CP_MT105|CP_MT114|CP_MT128|CP_MT129|CP_MT131|CP_MT134|CP_MT136|CP_MT138|CP_MT139|CP_MT14|CP_MT145|CP_MT149|CP_MT150|CP_MT23|CP_MT25|CP_MT28|CP_MT3|CP_MT31|CP_MT36|CP_MT45|CP_MT46|CP_MT49|CP_MT54|CP_MT56|CP_MT63|CP_MT64|CP_MT71|CP_MT73|CP_MT75|CP_MT76|CP_MT86|CP_MT88|CP_MT91|CP_MT95|CP_MT96|CP_MT97|CP_UN130|CP_UN153|CP_UN169|CP_UN176|CP_UN198|CP_UN200|CP_UN219|CP_UN225|CP_UN251|CP_UN33|CP_UN78|Camp_1|Camp_27|Camp_33|Camp_35|Camp_4|Camp_45|DOD_5|DOW_294|DOW_305|DOW_353|DOW_365|DOW_85|DOW_87|DOW_90|FDY2020|FDYJE|JA22|JA22_3|MLP102|Merch_150|Merch_35|TBOOST|XMAS|XMAS22_01|XMAS22_04|XMAS22_06|XMAS22_13",
+      "rating": {
+        "average": 4.3,
+        "totalRatings": 1318
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/19/042576/1.jpg?0343",
+      "url": "/fashion-2021-mens-casual-high-top-shoes-running-sneakers-beige-67524091.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "WE732FS0BC5CGNAFAMZ-94624164",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS0BC5CGNAFAMZ-94624164&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 39",
+          "prices": {
+            "rawPrice": "8999.00",
+            "price": "₦ 8,999",
+            "priceEuro": "18.38",
+            "taxEuro": "1.28",
+            "oldPrice": "₦ 16,680",
+            "oldPriceEuro": "34.07",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "WE732FS0BC5CGNAFAMZ-94624165",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS0BC5CGNAFAMZ-94624165&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 40",
+          "prices": {
+            "rawPrice": "6999.00",
+            "price": "₦ 6,999",
+            "priceEuro": "14.30",
+            "taxEuro": "1.00",
+            "oldPrice": "₦ 16,680",
+            "oldPriceEuro": "34.07",
+            "discount": "58%"
+          }
+        },
+        {
+          "sku": "WE732FS0BC5CGNAFAMZ-94624166",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS0BC5CGNAFAMZ-94624166&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 41",
+          "prices": {
+            "rawPrice": "5999.00",
+            "price": "₦ 5,999",
+            "priceEuro": "12.25",
+            "taxEuro": "0.85",
+            "oldPrice": "₦ 16,680",
+            "oldPriceEuro": "34.07",
+            "discount": "64%"
+          }
+        },
+        {
+          "sku": "WE732FS0BC5CGNAFAMZ-94624167",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS0BC5CGNAFAMZ-94624167&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "8999.00",
+            "price": "₦ 8,999",
+            "priceEuro": "18.38",
+            "taxEuro": "1.28",
+            "oldPrice": "₦ 16,680",
+            "oldPriceEuro": "34.07",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "WE732FS0BC5CGNAFAMZ-94624168",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS0BC5CGNAFAMZ-94624168&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "8999.00",
+            "price": "₦ 8,999",
+            "priceEuro": "18.38",
+            "taxEuro": "1.28",
+            "oldPrice": "₦ 16,680",
+            "oldPriceEuro": "34.07",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "WE732FS0BC5CGNAFAMZ-94624169",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS0BC5CGNAFAMZ-94624169&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "8999.00",
+            "price": "₦ 8,999",
+            "priceEuro": "18.38",
+            "taxEuro": "1.28",
+            "oldPrice": "₦ 16,680",
+            "oldPriceEuro": "34.07",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "WE732FS0BC5CGNAFAMZ-186039565",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS0BC5CGNAFAMZ-186039565&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 45",
+          "prices": {
+            "rawPrice": "8999.00",
+            "price": "₦ 8,999",
+            "priceEuro": "18.38",
+            "taxEuro": "1.28",
+            "oldPrice": "₦ 16,680",
+            "oldPriceEuro": "34.07",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "WE732FS0BC5CGNAFAMZ-348498140",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS0BC5CGNAFAMZ-348498140&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 46",
+          "prices": {
+            "rawPrice": "8999.00",
+            "price": "₦ 8,999",
+            "priceEuro": "18.38",
+            "taxEuro": "1.28",
+            "oldPrice": "₦ 16,680",
+            "oldPriceEuro": "34.07",
+            "discount": "46%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203FS2R501KNAFAMZ",
+      "name": "2021 Men's Casual Board Running Sneakers - White/Black",
+      "displayName": "2021 Men's Casual Board Running Sneakers - White/Black",
+      "brand": "Fashion",
+      "sellerId": 285117,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers/Sneakers/Low-cut",
+      "prices": {
+        "rawPrice": "8000.00",
+        "price": "₦ 8,000",
+        "priceEuro": "16.34",
+        "taxEuro": "1.14",
+        "oldPrice": "₦ 15,099",
+        "oldPriceEuro": "30.84",
+        "discount": "47%"
+      },
+      "tags": "BF22_12|Boost|CP_63|CP_MT102|CP_MT114|CP_MT131|CP_MT136|CP_MT14|CP_MT145|CP_MT149|CP_MT150|CP_MT31|CP_MT88|CP_MT95|CP_MT96|CP_MT97|CP_UN130|CP_UN200|CP_UN219|CP_UN221|CP_UN78|DOW_305|DOW_85|DOW_87|FDYJE|TBOOST|XMAS|XMAS22_01|XMAS22_04|XMAS22_06|XMAS22_13",
+      "rating": {
+        "average": 4.2,
+        "totalRatings": 82
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/66/5153201/1.jpg?5028",
+      "url": "/fashion-2021-mens-casual-board-running-sneakers-whiteblack-102351566.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203FS2R501KNAFAMZ-139886377",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2R501KNAFAMZ-139886377&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 39",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 15,099",
+            "oldPriceEuro": "30.84",
+            "discount": "47%"
+          }
+        },
+        {
+          "sku": "FA203FS2R501KNAFAMZ-139886378",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2R501KNAFAMZ-139886378&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 40",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 15,099",
+            "oldPriceEuro": "30.84",
+            "discount": "47%"
+          }
+        },
+        {
+          "sku": "FA203FS2R501KNAFAMZ-139886379",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2R501KNAFAMZ-139886379&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 41",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 15,099",
+            "oldPriceEuro": "30.84",
+            "discount": "47%"
+          }
+        },
+        {
+          "sku": "FA203FS2R501KNAFAMZ-139886380",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2R501KNAFAMZ-139886380&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 15,099",
+            "oldPriceEuro": "30.84",
+            "discount": "47%"
+          }
+        },
+        {
+          "sku": "FA203FS2R501KNAFAMZ-139886381",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2R501KNAFAMZ-139886381&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 15,099",
+            "oldPriceEuro": "30.84",
+            "discount": "47%"
+          }
+        },
+        {
+          "sku": "FA203FS2R501KNAFAMZ-139886382",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2R501KNAFAMZ-139886382&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "8000.00",
+            "price": "₦ 8,000",
+            "priceEuro": "16.34",
+            "taxEuro": "1.14",
+            "oldPrice": "₦ 15,099",
+            "oldPriceEuro": "30.84",
+            "discount": "47%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203MW12OW0PNAFAMZ",
+      "name": "T-Shirts +Shorts 100% Cotton Men's Short Sleeve Set",
+      "displayName": "T-Shirts +Shorts 100% Cotton Men's Short Sleeve Set",
+      "brand": "Fashion",
+      "sellerId": 109703,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/T-Shirts",
+      "prices": {
+        "rawPrice": "4900.00",
+        "price": "₦ 4,900",
+        "priceEuro": "10.01",
+        "taxEuro": "0.70",
+        "oldPrice": "₦ 9,000",
+        "oldPriceEuro": "18.38",
+        "discount": "46%"
+      },
+      "tags": "BF22_12|Boost|CP_67|CP_75|CP_MT114|CP_MT131|CP_MT136|CP_MT139|CP_MT88|CP_MT96|CP_UN130|CP_UN200|CP_UN78|DOW_305|FDYJE|INF_95|MLP102|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.5,
+        "totalRatings": 184
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/64/986649/1.jpg?6655",
+      "url": "/fashion-t-shirts-shorts-100-cotton-mens-short-sleeve-set-94668946.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203MW12OW0PNAFAMZ-129653799",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW12OW0PNAFAMZ-129653799&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 9,000",
+            "oldPriceEuro": "18.38",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "FA203MW12OW0PNAFAMZ-129653800",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW12OW0PNAFAMZ-129653800&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "L",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 9,000",
+            "oldPriceEuro": "18.38",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "FA203MW12OW0PNAFAMZ-129653801",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW12OW0PNAFAMZ-129653801&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 9,000",
+            "oldPriceEuro": "18.38",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "FA203MW12OW0PNAFAMZ-129653802",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW12OW0PNAFAMZ-129653802&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 9,000",
+            "oldPriceEuro": "18.38",
+            "discount": "46%"
+          }
+        },
+        {
+          "sku": "FA203MW12OW0PNAFAMZ-129653803",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW12OW0PNAFAMZ-129653803&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 9,000",
+            "oldPriceEuro": "18.38",
+            "discount": "46%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "OR772FC10OYUXNAFAMZ",
+      "name": "Quartz Watch Men's Calendar Luminous Waterproof Round Glass Mirror",
+      "displayName": "ORUSS Quartz Watch Men's Calendar Luminous Waterproof Round Glass Mirror",
+      "brand": "ORUSS",
+      "sellerId": 130232,
+      "isShopExpress": true,
+      "categories": "Fashion/Watches & Sunglasses/Men's Watches/Bracelet Strap",
+      "prices": {
+        "rawPrice": "2000.00",
+        "price": "₦ 2,000",
+        "priceEuro": "4.09",
+        "taxEuro": "0.29",
+        "oldPrice": "₦ 3,922",
+        "oldPriceEuro": "8.01",
+        "discount": "49%"
+      },
+      "tags": "BF21|BF21_UN3|COL_320|CP_8|CP_MT114|CP_MT131|CP_MT133|CP_MT145|CP_MT149|CP_MT150|CP_MT88|CP_MT96|CP_UN130|DOW_85|DOW_88|FDYJE|JA22|JA22_3",
+      "rating": {
+        "average": 4.1,
+        "totalRatings": 16
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/631097/1.jpg?8766",
+      "url": "/oruss-quartz-watch-mens-calendar-luminous-waterproof-round-glass-mirror-79013616.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "OR772FC10OYUXNAFAMZ-108485964",
+          "loginUrl": "/customer/account/login/?tkWl=OR772FC10OYUXNAFAMZ-108485964&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "",
+          "prices": {
+            "rawPrice": "2000.00",
+            "price": "₦ 2,000",
+            "priceEuro": "4.09",
+            "taxEuro": "0.29",
+            "oldPrice": "₦ 3,922",
+            "oldPriceEuro": "8.01",
+            "discount": "49%"
+          }
+        }
+      ],
+      "selectedVariation": "OR772FC10OYUXNAFAMZ-108485964"
+    },
+    {
+      "sku": "FA203MW19DAFSNAFAMZ",
+      "name": "2 In 1 Men's Short Sleeve Shorts Set - White",
+      "displayName": "2 In 1 Men's Short Sleeve Shorts Set - White",
+      "brand": "Fashion",
+      "sellerId": 140100,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/T-Shirts",
+      "prices": {
+        "rawPrice": "3000.00",
+        "price": "₦ 3,000",
+        "priceEuro": "6.13",
+        "taxEuro": "0.43",
+        "oldPrice": "₦ 6,644",
+        "oldPriceEuro": "13.57",
+        "discount": "55%"
+      },
+      "tags": "BF21|BF21_UN3|BF22_12|Boost|CP_MT102|CP_MT103|CP_MT105|CP_MT114|CP_MT128|CP_MT131|CP_MT134|CP_MT136|CP_MT139|CP_MT145|CP_MT149|CP_MT15|CP_MT150|CP_MT23|CP_MT49|CP_MT7|CP_MT71|CP_MT88|CP_MT91|CP_MT95|CP_MT96|CP_MT97|CP_UN130|CP_UN200|CP_UN61|CP_UN78|CP_UN92|Camp_45|DOW_305|DOW_85|FDY2020|FDYJE|JA21|JA21_UN6|JA22|JA22_3|Merch_150|Merch_190|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.6,
+        "totalRatings": 728
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/202776/1.jpg?0581",
+      "url": "/fashion-2-in-1-mens-short-sleeve-shorts-set-white-67720267.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203MW19DAFSNAFAMZ-94937020",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19DAFSNAFAMZ-94937020&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "3000.00",
+            "price": "₦ 3,000",
+            "priceEuro": "6.13",
+            "taxEuro": "0.43",
+            "oldPrice": "₦ 6,644",
+            "oldPriceEuro": "13.57",
+            "discount": "55%"
+          }
+        },
+        {
+          "sku": "FA203MW19DAFSNAFAMZ-94937021",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19DAFSNAFAMZ-94937021&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "3000.00",
+            "price": "₦ 3,000",
+            "priceEuro": "6.13",
+            "taxEuro": "0.43",
+            "oldPrice": "₦ 6,644",
+            "oldPriceEuro": "13.57",
+            "discount": "55%"
+          }
+        },
+        {
+          "sku": "FA203MW19DAFSNAFAMZ-94937022",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19DAFSNAFAMZ-94937022&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "3000.00",
+            "price": "₦ 3,000",
+            "priceEuro": "6.13",
+            "taxEuro": "0.43",
+            "oldPrice": "₦ 6,644",
+            "oldPriceEuro": "13.57",
+            "discount": "55%"
+          }
+        },
+        {
+          "sku": "FA203MW19DAFSNAFAMZ-94937023",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19DAFSNAFAMZ-94937023&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "3000.00",
+            "price": "₦ 3,000",
+            "priceEuro": "6.13",
+            "taxEuro": "0.43",
+            "oldPrice": "₦ 6,644",
+            "oldPriceEuro": "13.57",
+            "discount": "55%"
+          }
+        },
+        {
+          "sku": "FA203MW19DAFSNAFAMZ-94937024",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19DAFSNAFAMZ-94937024&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "4500.00",
+            "price": "₦ 4,500",
+            "priceEuro": "9.19",
+            "taxEuro": "0.64",
+            "oldPrice": "₦ 9,000",
+            "oldPriceEuro": "18.38",
+            "discount": "50%"
+          }
+        },
+        {
+          "sku": "FA203MW19DAFSNAFAMZ-94937025",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19DAFSNAFAMZ-94937025&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXXL",
+          "prices": {
+            "rawPrice": "4500.00",
+            "price": "₦ 4,500",
+            "priceEuro": "9.19",
+            "taxEuro": "0.64",
+            "oldPrice": "₦ 9,000",
+            "oldPriceEuro": "18.38",
+            "discount": "50%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "ME787FC1AJ54WNAFAMZ",
+      "name": "Men Casual Outdoor Travel Crossbody Bag With USB Port",
+      "displayName": "MeiJieLuo Men Casual Outdoor Travel Crossbody Bag With USB Port",
+      "brand": "MeiJieLuo",
+      "sellerId": 221247,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Bags/Messenger Bags",
+      "prices": {
+        "rawPrice": "2050.00",
+        "price": "₦ 2,050",
+        "priceEuro": "4.19",
+        "taxEuro": "0.29",
+        "oldPrice": "₦ 9,500",
+        "oldPriceEuro": "19.40",
+        "discount": "78%"
+      },
+      "tags": "BF21_UN3|BF22|BF22_12|Boost|CP_MT102|CP_MT104|CP_MT114|CP_MT129|CP_MT131|CP_MT134|CP_MT136|CP_MT138|CP_MT143|CP_MT145|CP_MT15|CP_MT23|CP_MT36|CP_MT45|CP_MT46|CP_MT49|CP_MT54|CP_MT56|CP_MT63|CP_MT71|CP_MT78|CP_MT82|CP_MT85|CP_UN250|CP_UN300|CP_UN92|Camp_4|Camp_45|Camp_56|Camp_72|DOW_219|DOW_253|DOW_255|DOW_376|DOW_383|DOW_85|FDY2020|FDYJE|GAM0|INF_38|INF_94|JA21_UN14|JA22|JA22_3|MLP102|Merch_150|Merch_34|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.5,
+        "totalRatings": 3891
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/155456/1.jpg?8470",
+      "url": "/meijieluo-men-casual-outdoor-travel-crossbody-bag-with-usb-port-65455187.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "ME787FC1AJ54WNAFAMZ-91710447",
+          "loginUrl": "/customer/account/login/?tkWl=ME787FC1AJ54WNAFAMZ-91710447&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "",
+          "prices": {
+            "rawPrice": "2050.00",
+            "price": "₦ 2,050",
+            "priceEuro": "4.19",
+            "taxEuro": "0.29",
+            "oldPrice": "₦ 9,500",
+            "oldPriceEuro": "19.40",
+            "discount": "78%"
+          }
+        }
+      ],
+      "selectedVariation": "ME787FC1AJ54WNAFAMZ-91710447"
+    },
+    {
+      "sku": "FA203MW19B63QNAFAMZ",
+      "name": "Men's Cotton Casual Short-sleeved T-shirt POLO Shirt -Red",
+      "displayName": "Men's Cotton Casual Short-sleeved T-shirt POLO Shirt -Red",
+      "brand": "Fashion",
+      "sellerId": 140100,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/Polos",
+      "prices": {
+        "rawPrice": "3900.00",
+        "price": "₦ 3,900",
+        "priceEuro": "7.97",
+        "taxEuro": "0.56",
+        "oldPrice": "₦ 7,936",
+        "oldPriceEuro": "16.21",
+        "discount": "51%"
+      },
+      "tags": "BF21_UN3|COD|COL_248|COL_261|COL_66|CP_MT102|CP_MT114|CP_MT15|CP_MT19|CP_MT23|CP_MT3|CP_MT36|CP_MT45|CP_MT46|CP_MT49|CP_MT54|CP_MT56|CP_MT63|CP_MT7|CP_MT71|CP_MT73|CP_MT75|CP_MT76|CP_MT88|CP_MT91|CP_MT96|CP_UN116|CP_UN130|CP_UN153|CP_UN200|CP_UN249|CP_UN33|CP_UN61|CP_UN63|CP_UN78|Camp_4|Camp_45|Camp_56|DOW_226|DOW_232|DOW_253|DOW_255|DOW_262|DOW_266|DOW_283|DOW_311|DOW_385|DOW_388|FDY2020|FDYJE|GAM0|INF_1|JA21|JA21_UN6|JA22|JA22_3|Merch_150|Merch_190|Merch_33",
+      "rating": {
+        "average": 3.6,
+        "totalRatings": 1172
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/103846/1.jpg?3828",
+      "url": "/fashion-mens-cotton-casual-short-sleeved-t-shirt-polo-shirt-red-64830167.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203MW19B63QNAFAMZ-90811540",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19B63QNAFAMZ-90811540&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "3900.00",
+            "price": "₦ 3,900",
+            "priceEuro": "7.97",
+            "taxEuro": "0.56",
+            "oldPrice": "₦ 7,936",
+            "oldPriceEuro": "16.21",
+            "discount": "51%"
+          }
+        },
+        {
+          "sku": "FA203MW19B63QNAFAMZ-90811542",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19B63QNAFAMZ-90811542&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "3900.00",
+            "price": "₦ 3,900",
+            "priceEuro": "7.97",
+            "taxEuro": "0.56",
+            "oldPrice": "₦ 7,936",
+            "oldPriceEuro": "16.21",
+            "discount": "51%"
+          }
+        },
+        {
+          "sku": "FA203MW19B63QNAFAMZ-90811545",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19B63QNAFAMZ-90811545&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "3900.00",
+            "price": "₦ 3,900",
+            "priceEuro": "7.97",
+            "taxEuro": "0.56",
+            "oldPrice": "₦ 7,936",
+            "oldPriceEuro": "16.21",
+            "discount": "51%"
+          }
+        },
+        {
+          "sku": "FA203MW19B63QNAFAMZ-90811547",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19B63QNAFAMZ-90811547&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "3900.00",
+            "price": "₦ 3,900",
+            "priceEuro": "7.97",
+            "taxEuro": "0.56",
+            "oldPrice": "₦ 7,936",
+            "oldPriceEuro": "16.21",
+            "discount": "51%"
+          }
+        },
+        {
+          "sku": "FA203MW19B63QNAFAMZ-90811549",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19B63QNAFAMZ-90811549&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "4500.00",
+            "price": "₦ 4,500",
+            "priceEuro": "9.19",
+            "taxEuro": "0.64",
+            "oldPrice": "₦ 12,000",
+            "oldPriceEuro": "24.51",
+            "discount": "63%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "DE820FS1ZPF9XNAFAMZ",
+      "name": "Man Shoes Shoes - Black",
+      "displayName": "Defacto Man Shoes Shoes - Black",
+      "brand": "Defacto",
+      "sellerId": 123731,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Casual",
+      "prices": {
+        "rawPrice": "9055.00",
+        "price": "₦ 9,055",
+        "priceEuro": "18.50",
+        "taxEuro": "1.29",
+        "oldPrice": "₦ 11,772",
+        "oldPriceEuro": "24.04",
+        "discount": "23%"
+      },
+      "tags": "BF22|BF22_12|CP_MT145|DOW_89|FDYJE|JMALL|TBOOST",
+      "rating": {
+        "average": 4.3,
+        "totalRatings": 3
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/20/4389331/1.jpg?2705",
+      "url": "/defacto-man-shoes-shoes-black-133983402.html",
+      "badges": {
+        "main": {
+          "name": "Official Store",
+          "identifier": "JMALL",
+          "url": "/all-products/?tag=JMALL"
+        },
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "DE820FS1ZPF9XNAFAMZ-183035672",
+          "loginUrl": "/customer/account/login/?tkWl=DE820FS1ZPF9XNAFAMZ-183035672&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 39",
+          "prices": {
+            "rawPrice": "9055.00",
+            "price": "₦ 9,055",
+            "priceEuro": "18.50",
+            "taxEuro": "1.29",
+            "oldPrice": "₦ 11,772",
+            "oldPriceEuro": "24.04",
+            "discount": "23%"
+          }
+        },
+        {
+          "sku": "DE820FS1ZPF9XNAFAMZ-183035674",
+          "loginUrl": "/customer/account/login/?tkWl=DE820FS1ZPF9XNAFAMZ-183035674&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 40",
+          "prices": {
+            "rawPrice": "9055.00",
+            "price": "₦ 9,055",
+            "priceEuro": "18.50",
+            "taxEuro": "1.29",
+            "oldPrice": "₦ 11,772",
+            "oldPriceEuro": "24.04",
+            "discount": "23%"
+          }
+        },
+        {
+          "sku": "DE820FS1ZPF9XNAFAMZ-183035677",
+          "loginUrl": "/customer/account/login/?tkWl=DE820FS1ZPF9XNAFAMZ-183035677&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 41",
+          "prices": {
+            "rawPrice": "9055.00",
+            "price": "₦ 9,055",
+            "priceEuro": "18.50",
+            "taxEuro": "1.29",
+            "oldPrice": "₦ 11,772",
+            "oldPriceEuro": "24.04",
+            "discount": "23%"
+          }
+        },
+        {
+          "sku": "DE820FS1ZPF9XNAFAMZ-183035679",
+          "loginUrl": "/customer/account/login/?tkWl=DE820FS1ZPF9XNAFAMZ-183035679&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "9055.00",
+            "price": "₦ 9,055",
+            "priceEuro": "18.50",
+            "taxEuro": "1.29",
+            "oldPrice": "₦ 11,772",
+            "oldPriceEuro": "24.04",
+            "discount": "23%"
+          }
+        },
+        {
+          "sku": "DE820FS1ZPF9XNAFAMZ-183035682",
+          "loginUrl": "/customer/account/login/?tkWl=DE820FS1ZPF9XNAFAMZ-183035682&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "9055.00",
+            "price": "₦ 9,055",
+            "priceEuro": "18.50",
+            "taxEuro": "1.29",
+            "oldPrice": "₦ 11,772",
+            "oldPriceEuro": "24.04",
+            "discount": "23%"
+          }
+        },
+        {
+          "sku": "DE820FS1ZPF9XNAFAMZ-183035685",
+          "loginUrl": "/customer/account/login/?tkWl=DE820FS1ZPF9XNAFAMZ-183035685&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "9055.00",
+            "price": "₦ 9,055",
+            "priceEuro": "18.50",
+            "taxEuro": "1.29",
+            "oldPrice": "₦ 11,772",
+            "oldPriceEuro": "24.04",
+            "discount": "23%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203AA1KS2J6NAFAMZ",
+      "name": "Cotton 4 Pcs Shirts Men's Summer Short Sleeve Cartoon Printed Young Men T-shirt",
+      "displayName": "Cotton 4 Pcs Shirts Men's Summer Short Sleeve Cartoon Printed Young Men T-shirt",
+      "brand": "Fashion",
+      "sellerId": 109703,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/T-Shirts",
+      "prices": {
+        "rawPrice": "8500.00",
+        "price": "₦ 8,500 - ₦ 8,900",
+        "priceEuro": "17.36",
+        "taxEuro": "1.21",
+        "oldPrice": "₦ 16,275 - ₦ 17,291",
+        "oldPriceEuro": "33.24",
+        "discount": "49%"
+      },
+      "tags": "BF22|BF22_12|Boost|CP_67|CP_75|CP_MT102|CP_MT114|CP_MT131|CP_MT136|CP_MT139|CP_MT145|CP_MT149|CP_MT150|CP_MT88|CP_MT96|CP_UN130|CP_UN200|CP_UN78|DOW_85|FDYJE|JA22|JA22_3|MLP102|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 4.2,
+        "totalRatings": 356
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/95/368146/1.jpg?8863",
+      "url": "/fashion-cotton-4-pcs-shirts-mens-summer-short-sleeve-cartoon-printed-young-men-t-shirt-64186359.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203AA1KS2J6NAFAMZ-89869804",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA1KS2J6NAFAMZ-89869804&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "8500.00",
+            "price": "₦ 8,500",
+            "priceEuro": "17.36",
+            "taxEuro": "1.21",
+            "oldPrice": "₦ 16,275",
+            "oldPriceEuro": "33.24",
+            "discount": "48%"
+          }
+        },
+        {
+          "sku": "FA203AA1KS2J6NAFAMZ-89869805",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA1KS2J6NAFAMZ-89869805&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "8900.00",
+            "price": "₦ 8,900",
+            "priceEuro": "18.18",
+            "taxEuro": "1.27",
+            "oldPrice": "₦ 16,275",
+            "oldPriceEuro": "33.24",
+            "discount": "45%"
+          }
+        },
+        {
+          "sku": "FA203AA1KS2J6NAFAMZ-89869806",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA1KS2J6NAFAMZ-89869806&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "8900.00",
+            "price": "₦ 8,900",
+            "priceEuro": "18.18",
+            "taxEuro": "1.27",
+            "oldPrice": "₦ 16,275",
+            "oldPriceEuro": "33.24",
+            "discount": "45%"
+          }
+        },
+        {
+          "sku": "FA203AA1KS2J6NAFAMZ-89869807",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA1KS2J6NAFAMZ-89869807&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "8900.00",
+            "price": "₦ 8,900",
+            "priceEuro": "18.18",
+            "taxEuro": "1.27",
+            "oldPrice": "₦ 16,275",
+            "oldPriceEuro": "33.24",
+            "discount": "45%"
+          }
+        },
+        {
+          "sku": "FA203AA1KS2J6NAFAMZ-89869808",
+          "loginUrl": "/customer/account/login/?tkWl=FA203AA1KS2J6NAFAMZ-89869808&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "8900.00",
+            "price": "₦ 8,900",
+            "priceEuro": "18.18",
+            "taxEuro": "1.27",
+            "oldPrice": "₦ 17,291",
+            "oldPriceEuro": "35.32",
+            "discount": "49%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203MW0OFWT9NAFAMZ",
+      "name": "Straight Jeans Men's Pants Trousers 100% High-Quality",
+      "displayName": "Straight Jeans Men's Pants Trousers 100% High-Quality",
+      "brand": "Fashion",
+      "sellerId": 109703,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Pants/Casual",
+      "prices": {
+        "rawPrice": "4900.00",
+        "price": "₦ 4,900",
+        "priceEuro": "10.01",
+        "taxEuro": "0.70",
+        "oldPrice": "₦ 8,306",
+        "oldPriceEuro": "16.97",
+        "discount": "41%"
+      },
+      "tags": "BF22_12|Boost|CP_67|CP_75|CP_MT102|CP_MT114|CP_MT131|CP_MT136|CP_MT139|CP_MT145|CP_MT149|CP_MT150|CP_MT88|CP_MT96|CP_UN130|CP_UN200|CP_UN78|DOW_305|DOW_85|DOW_90|FDYJE|INF_99|MLP102|TBOOST|UND_29|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.6,
+        "totalRatings": 298
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/41/053149/1.jpg?1910",
+      "url": "/fashion-straight-jeans-mens-pants-trousers-100-high-quality-94135014.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203MW0OFWT9NAFAMZ-128745235",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0OFWT9NAFAMZ-128745235&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 8,306",
+            "oldPriceEuro": "16.97",
+            "discount": "41%"
+          }
+        },
+        {
+          "sku": "FA203MW0OFWT9NAFAMZ-128745236",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0OFWT9NAFAMZ-128745236&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 8,306",
+            "oldPriceEuro": "16.97",
+            "discount": "41%"
+          }
+        },
+        {
+          "sku": "FA203MW0OFWT9NAFAMZ-128745237",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0OFWT9NAFAMZ-128745237&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 8,306",
+            "oldPriceEuro": "16.97",
+            "discount": "41%"
+          }
+        },
+        {
+          "sku": "FA203MW0OFWT9NAFAMZ-128745238",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0OFWT9NAFAMZ-128745238&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 8,306",
+            "oldPriceEuro": "16.97",
+            "discount": "41%"
+          }
+        },
+        {
+          "sku": "FA203MW0OFWT9NAFAMZ-128745240",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW0OFWT9NAFAMZ-128745240&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "4900.00",
+            "price": "₦ 4,900",
+            "priceEuro": "10.01",
+            "taxEuro": "0.70",
+            "oldPrice": "₦ 8,306",
+            "oldPriceEuro": "16.97",
+            "discount": "41%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203FS2YSJSQNAFAMZ",
+      "name": "2022 Men's Casual Shoes Breathable Shoes Running Sneakers",
+      "displayName": "2022 Men's Casual Shoes Breathable Shoes Running Sneakers",
+      "brand": "Fashion",
+      "sellerId": 319345,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers/Sneakers/Low-cut",
+      "prices": {
+        "rawPrice": "8090.00",
+        "price": "₦ 8,090",
+        "priceEuro": "16.52",
+        "taxEuro": "1.15",
+        "oldPrice": "₦ 11,500",
+        "oldPriceEuro": "23.49",
+        "discount": "30%"
+      },
+      "tags": "COL_272|CP_63|CP_MT114|CP_MT136|CP_MT14|CP_MT143|CP_MT145|CP_MT31|CP_MT95|CP_MT97|DOW_85|DOW_87|JA22|JA22_3",
+      "rating": {
+        "average": 4.8,
+        "totalRatings": 94
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/79/3713221/1.jpg?3670",
+      "url": "/fashion-2022-mens-casual-shoes-breathable-shoes-running-sneakers-122317397.html",
+      "isBuyable": true,
+      "simples": [
+        {
+          "sku": "FA203FS2YSJSQNAFAMZ-168870941",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2YSJSQNAFAMZ-168870941&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "8090.00",
+            "price": "₦ 8,090",
+            "priceEuro": "16.52",
+            "taxEuro": "1.15",
+            "oldPrice": "₦ 11,500",
+            "oldPriceEuro": "23.49",
+            "discount": "30%"
+          }
+        },
+        {
+          "sku": "FA203FS2YSJSQNAFAMZ-168870943",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2YSJSQNAFAMZ-168870943&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "8090.00",
+            "price": "₦ 8,090",
+            "priceEuro": "16.52",
+            "taxEuro": "1.15",
+            "oldPrice": "₦ 11,500",
+            "oldPriceEuro": "23.49",
+            "discount": "30%"
+          }
+        },
+        {
+          "sku": "FA203FS2YSJSQNAFAMZ-168870945",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2YSJSQNAFAMZ-168870945&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "8090.00",
+            "price": "₦ 8,090",
+            "priceEuro": "16.52",
+            "taxEuro": "1.15",
+            "oldPrice": "₦ 11,500",
+            "oldPriceEuro": "23.49",
+            "discount": "30%"
+          }
+        },
+        {
+          "sku": "FA203FS2YSJSQNAFAMZ-168870947",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2YSJSQNAFAMZ-168870947&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 45",
+          "prices": {
+            "rawPrice": "8090.00",
+            "price": "₦ 8,090",
+            "priceEuro": "16.52",
+            "taxEuro": "1.15",
+            "oldPrice": "₦ 11,500",
+            "oldPriceEuro": "23.49",
+            "discount": "30%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "VE566MW1BTUXFNAFAMZ",
+      "name": "T12  Men's 2 In 1 Short Sleeve T-Shirt & Shorts Set-Red",
+      "displayName": "VEJARO T12  Men's 2 In 1 Short Sleeve T-Shirt & Shorts Set-Red",
+      "brand": "VEJARO",
+      "sellerId": 275832,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Sleep & Lounge",
+      "prices": {
+        "rawPrice": "3800.00",
+        "price": "₦ 3,800",
+        "priceEuro": "7.76",
+        "taxEuro": "0.54",
+        "oldPrice": "₦ 12,800",
+        "oldPriceEuro": "26.14",
+        "discount": "70%"
+      },
+      "tags": "BF22|BF22_12|Boost|CP_MT104|CP_MT114|CP_MT131|CP_MT136|FDYJE|INF_93|INF_97|INF_99|JA22|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.9,
+        "totalRatings": 274
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/80/335059/1.jpg?6661",
+      "url": "/vejaro-t12-mens-2-in-1-short-sleeve-t-shirt-shorts-set-red-95053308.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "VE566MW1BTUXFNAFAMZ-130302153",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW1BTUXFNAFAMZ-130302153&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "3800.00",
+            "price": "₦ 3,800",
+            "priceEuro": "7.76",
+            "taxEuro": "0.54",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "70%"
+          }
+        },
+        {
+          "sku": "VE566MW1BTUXFNAFAMZ-130302154",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW1BTUXFNAFAMZ-130302154&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "3800.00",
+            "price": "₦ 3,800",
+            "priceEuro": "7.76",
+            "taxEuro": "0.54",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "70%"
+          }
+        },
+        {
+          "sku": "VE566MW1BTUXFNAFAMZ-130302155",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW1BTUXFNAFAMZ-130302155&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "3800.00",
+            "price": "₦ 3,800",
+            "priceEuro": "7.76",
+            "taxEuro": "0.54",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "70%"
+          }
+        },
+        {
+          "sku": "VE566MW1BTUXFNAFAMZ-130302156",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW1BTUXFNAFAMZ-130302156&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "3800.00",
+            "price": "₦ 3,800",
+            "priceEuro": "7.76",
+            "taxEuro": "0.54",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "70%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "VE566MW346SS7NAFAMZ",
+      "name": "U01 Men's Underwear Boxer Briefs Multicolor-4 In 1",
+      "displayName": "VEJARO U01 Men's Underwear Boxer Briefs Multicolor-4 In 1",
+      "brand": "VEJARO",
+      "sellerId": 275832,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Underwear & Sleepwear/Underwear",
+      "prices": {
+        "rawPrice": "2980.00",
+        "price": "₦ 2,980",
+        "priceEuro": "6.09",
+        "taxEuro": "0.42",
+        "oldPrice": "₦ 9,800",
+        "oldPriceEuro": "20.02",
+        "discount": "70%"
+      },
+      "tags": "BF22|BF22_12|Boost|CP_MT104|CP_MT114|CP_MT131|CP_MT136|CP_MT148|CP_MT150|CP_MT96|FDYJE|INF_93|INF_94|INF_97|INF_99|JA22|JA22_3|MLP102|NORET|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.8,
+        "totalRatings": 292
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/88/4342311/1.jpg?4715",
+      "url": "/vejaro-u01-mens-underwear-boxer-briefs-multicolor-4-in-1-113243488.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "VE566MW346SS7NAFAMZ-155520448",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW346SS7NAFAMZ-155520448&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "2980.00",
+            "price": "₦ 2,980",
+            "priceEuro": "6.09",
+            "taxEuro": "0.42",
+            "oldPrice": "₦ 9,800",
+            "oldPriceEuro": "20.02",
+            "discount": "70%"
+          }
+        },
+        {
+          "sku": "VE566MW346SS7NAFAMZ-155520449",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW346SS7NAFAMZ-155520449&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "2980.00",
+            "price": "₦ 2,980",
+            "priceEuro": "6.09",
+            "taxEuro": "0.42",
+            "oldPrice": "₦ 9,800",
+            "oldPriceEuro": "20.02",
+            "discount": "70%"
+          }
+        },
+        {
+          "sku": "VE566MW346SS7NAFAMZ-155520450",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW346SS7NAFAMZ-155520450&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "2980.00",
+            "price": "₦ 2,980",
+            "priceEuro": "6.09",
+            "taxEuro": "0.42",
+            "oldPrice": "₦ 9,800",
+            "oldPriceEuro": "20.02",
+            "discount": "70%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203FS08FI44NAFAMZ",
+      "name": "Men Athletic Sneaker Elastic Running Casual Shoes",
+      "displayName": "Men Athletic Sneaker Elastic Running Casual Shoes",
+      "brand": "Fashion",
+      "sellerId": 83359,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers",
+      "prices": {
+        "rawPrice": "2135.00",
+        "price": "₦ 2,135",
+        "priceEuro": "4.36",
+        "taxEuro": "0.30",
+        "oldPrice": "₦ 4,185",
+        "oldPriceEuro": "8.55",
+        "discount": "49%"
+      },
+      "tags": "BF22|BF22_12|CODx|COL_239|COL_320|COL_66|CP_63|CP_MT114|CP_MT14|CP_MT95|CP_MT96|CP_MT97|DOW_106|DOW_142|DOW_165|DOW_179|DOW_205|DOW_216|DOW_219|DOW_225|DOW_253|DOW_255|DOW_262|DOW_266|DOW_275|DOW_283|DOW_301|FDYJE|TBOOST|XMAS|XMAS22_01|XMAS22_04",
+      "rating": {
+        "average": 4,
+        "totalRatings": 75
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/14/160244/1.jpg?0532",
+      "url": "/fashion-men-athletic-sneaker-elastic-running-casual-shoes-44206141.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203FS08FI44NAFAMZ-62349992",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS08FI44NAFAMZ-62349992&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 40",
+          "prices": {
+            "rawPrice": "2135.00",
+            "price": "₦ 2,135",
+            "priceEuro": "4.36",
+            "taxEuro": "0.30",
+            "oldPrice": "₦ 4,185",
+            "oldPriceEuro": "8.55",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "FA203FS08FI44NAFAMZ-62349991",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS08FI44NAFAMZ-62349991&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 41",
+          "prices": {
+            "rawPrice": "5600.00",
+            "price": "₦ 5,600",
+            "priceEuro": "11.44",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 12,000",
+            "oldPriceEuro": "24.51",
+            "discount": "53%"
+          }
+        },
+        {
+          "sku": "FA203FS08FI44NAFAMZ-62349990",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS08FI44NAFAMZ-62349990&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "5600.00",
+            "price": "₦ 5,600",
+            "priceEuro": "11.44",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 12,000",
+            "oldPriceEuro": "24.51",
+            "discount": "53%"
+          }
+        },
+        {
+          "sku": "FA203FS08FI44NAFAMZ-62349989",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS08FI44NAFAMZ-62349989&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "2135.00",
+            "price": "₦ 2,135",
+            "priceEuro": "4.36",
+            "taxEuro": "0.30",
+            "oldPrice": "₦ 4,185",
+            "oldPriceEuro": "8.55",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "FA203FS08FI44NAFAMZ-62349988",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS08FI44NAFAMZ-62349988&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "2135.00",
+            "price": "₦ 2,135",
+            "priceEuro": "4.36",
+            "taxEuro": "0.30",
+            "oldPrice": "₦ 4,185",
+            "oldPriceEuro": "8.55",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "FA203FS08FI44NAFAMZ-62349987",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS08FI44NAFAMZ-62349987&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 45",
+          "prices": {
+            "rawPrice": "2135.00",
+            "price": "₦ 2,135",
+            "priceEuro": "4.36",
+            "taxEuro": "0.30",
+            "oldPrice": "₦ 4,185",
+            "oldPriceEuro": "8.55",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "FA203FS08FI44NAFAMZ-62349986",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS08FI44NAFAMZ-62349986&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 46",
+          "prices": {
+            "rawPrice": "5600.00",
+            "price": "₦ 5,600",
+            "priceEuro": "11.44",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 12,000",
+            "oldPriceEuro": "24.51",
+            "discount": "53%"
+          }
+        },
+        {
+          "sku": "FA203FS08FI44NAFAMZ-62349985",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS08FI44NAFAMZ-62349985&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 47",
+          "prices": {
+            "rawPrice": "5600.00",
+            "price": "₦ 5,600",
+            "priceEuro": "11.44",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 12,000",
+            "oldPriceEuro": "24.51",
+            "discount": "53%"
+          }
+        },
+        {
+          "sku": "FA203FS08FI44NAFAMZ-62349984",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS08FI44NAFAMZ-62349984&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 48",
+          "prices": {
+            "rawPrice": "5600.00",
+            "price": "₦ 5,600",
+            "priceEuro": "11.44",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 12,000",
+            "oldPriceEuro": "24.51",
+            "discount": "53%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FN017FC1HV7WANAFAMZ",
+      "name": "05 Calendar Sporty Waterproof Quartz Men's Watch/Black",
+      "displayName": "Fngeen 05 Calendar Sporty Waterproof Quartz Men's Watch/Black",
+      "brand": "Fngeen",
+      "sellerId": 108971,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Watches/Wrist Watches",
+      "prices": {
+        "rawPrice": "4870.00",
+        "price": "₦ 4,870",
+        "priceEuro": "9.95",
+        "taxEuro": "0.69",
+        "oldPrice": "₦ 28,000",
+        "oldPriceEuro": "57.19",
+        "discount": "83%"
+      },
+      "tags": "BF22|BF22_12|Boost|CP_8|CP_MT102|CP_MT104|CP_MT114|CP_MT129|CP_MT131|CP_MT134|CP_MT136|CP_MT138|CP_MT143|CP_MT145|CP_MT45|CP_MT47|CP_MT71|CP_MT82|CP_MT96|CP_UN263|CP_UN300|DOW_11|DOW_85|DOW_88|FDY2020|FDYJE|INF_38|INF_93|INF_94|INF_99|JA22|JA22_3|MLP102|Merch_150|TBOOST|UND_29|UND_34|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 4.1,
+        "totalRatings": 1713
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/476218/1.jpg?8782",
+      "url": "/fngeen-05-calendar-sporty-waterproof-quartz-mens-watchblack-81267409.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FN017FC1HV7WANAFAMZ-111347917",
+          "loginUrl": "/customer/account/login/?tkWl=FN017FC1HV7WANAFAMZ-111347917&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "",
+          "prices": {
+            "rawPrice": "4870.00",
+            "price": "₦ 4,870",
+            "priceEuro": "9.95",
+            "taxEuro": "0.69",
+            "oldPrice": "₦ 28,000",
+            "oldPriceEuro": "57.19",
+            "discount": "83%"
+          }
+        }
+      ],
+      "selectedVariation": "FN017FC1HV7WANAFAMZ-111347917"
+    },
+    {
+      "sku": "GE083AC16S0OENAFAMZ",
+      "name": "Unisex Casual Wrist Watch With Bracelet- Gold",
+      "displayName": "Geneva Unisex Casual Wrist Watch With Bracelet- Gold",
+      "brand": "Geneva",
+      "sellerId": 11851,
+      "categories": "Fashion/Watches & Sunglasses/Women's Watches/Bracelet Strap",
+      "prices": {
+        "rawPrice": "2900.00",
+        "price": "₦ 2,900",
+        "priceEuro": "5.92",
+        "taxEuro": "0.41",
+        "oldPrice": "₦ 3,500",
+        "oldPriceEuro": "7.15",
+        "discount": "17%"
+      },
+      "tags": "BF22|BF22_12|Boost|CP_8|CP_MT114|CP_MT136|CP_MT139|CP_MT143|CP_MT145|CP_UN108|DOW_88|JA22|JA22_12|TBOOST|UND_49|XMAS|XMAS22_04",
+      "rating": {
+        "average": 3.5,
+        "totalRatings": 22
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/71/851118/1.jpg?1702",
+      "url": "/geneva-unisex-casual-wrist-watch-with-bracelet-gold-81115817.html",
+      "isBuyable": true,
+      "simples": [
+        {
+          "sku": "GE083AC16S0OENAFAMZ-111142297",
+          "loginUrl": "/customer/account/login/?tkWl=GE083AC16S0OENAFAMZ-111142297&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "One size fits all",
+          "prices": {
+            "rawPrice": "2900.00",
+            "price": "₦ 2,900",
+            "priceEuro": "5.92",
+            "taxEuro": "0.41",
+            "oldPrice": "₦ 3,500",
+            "oldPriceEuro": "7.15",
+            "discount": "17%"
+          }
+        }
+      ],
+      "selectedVariation": "GE083AC16S0OENAFAMZ-111142297",
+      "variationSelection": true
+    },
+    {
+      "sku": "VE566MW0POJ83NAFAMZ",
+      "name": "T10  Men's 2 In 1 Short Sleeve T-Shirt & Shorts Set- White",
+      "displayName": "VEJARO T10  Men's 2 In 1 Short Sleeve T-Shirt & Shorts Set- White",
+      "brand": "VEJARO",
+      "sellerId": 275832,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/T-Shirts",
+      "prices": {
+        "rawPrice": "3800.00",
+        "price": "₦ 3,800",
+        "priceEuro": "7.76",
+        "taxEuro": "0.54",
+        "oldPrice": "₦ 12,800",
+        "oldPriceEuro": "26.14",
+        "discount": "70%"
+      },
+      "tags": "BF22|BF22_12|Boost|CP_67|CP_75|CP_MT104|CP_MT114|CP_MT131|CP_MT136|FDYJE|INF_95|INF_97|JA22|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.8,
+        "totalRatings": 207
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/43/135059/1.jpg?9053",
+      "url": "/vejaro-t10-mens-2-in-1-short-sleeve-t-shirt-shorts-set-white-95053134.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "VE566MW0POJ83NAFAMZ-130301971",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW0POJ83NAFAMZ-130301971&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "3800.00",
+            "price": "₦ 3,800",
+            "priceEuro": "7.76",
+            "taxEuro": "0.54",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "70%"
+          }
+        },
+        {
+          "sku": "VE566MW0POJ83NAFAMZ-130301972",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW0POJ83NAFAMZ-130301972&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "3800.00",
+            "price": "₦ 3,800",
+            "priceEuro": "7.76",
+            "taxEuro": "0.54",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "70%"
+          }
+        },
+        {
+          "sku": "VE566MW0POJ83NAFAMZ-130301973",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW0POJ83NAFAMZ-130301973&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "3800.00",
+            "price": "₦ 3,800",
+            "priceEuro": "7.76",
+            "taxEuro": "0.54",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "70%"
+          }
+        },
+        {
+          "sku": "VE566MW0POJ83NAFAMZ-130301974",
+          "loginUrl": "/customer/account/login/?tkWl=VE566MW0POJ83NAFAMZ-130301974&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "3800.00",
+            "price": "₦ 3,800",
+            "priceEuro": "7.76",
+            "taxEuro": "0.54",
+            "oldPrice": "₦ 12,800",
+            "oldPriceEuro": "26.14",
+            "discount": "70%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203FC091BJJNAFAMZ",
+      "name": "N002 Fashion 2 In 1 Women Vintage Earrings Plus Necklace Set-Gold-like",
+      "displayName": "N002 Fashion 2 In 1 Women Vintage Earrings Plus Necklace Set-Gold-like",
+      "brand": "Fashion",
+      "sellerId": 108971,
+      "isShopExpress": true,
+      "categories": "Fashion/Women's Fashion/Jewelry/Fashion/Necklaces",
+      "prices": {
+        "rawPrice": "1192.00",
+        "price": "₦ 1,192",
+        "priceEuro": "2.43",
+        "taxEuro": "0.17",
+        "oldPrice": "₦ 1,500",
+        "oldPriceEuro": "3.06",
+        "discount": "21%"
+      },
+      "tags": "BF22|BF22_12|CP_MT104|CP_MT129|CP_MT131|CP_MT133|CP_MT134|CP_MT136|CP_MT138|CP_MT143|CP_MT145|CP_MT71|CP_MT87|CP_MT96|FDYJE|INF_97|JA22|JA22_12|Merch_150|TBOOST|UND_29|UND_34|UND_49|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.9,
+        "totalRatings": 519
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/15/178159/1.jpg?4013",
+      "url": "/fashion-n002-fashion-2-in-1-women-vintage-earrings-plus-necklace-set-gold-like-95187151.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203FC091BJJNAFAMZ-130516048",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FC091BJJNAFAMZ-130516048&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "",
+          "prices": {
+            "rawPrice": "1192.00",
+            "price": "₦ 1,192",
+            "priceEuro": "2.43",
+            "taxEuro": "0.17",
+            "oldPrice": "₦ 1,500",
+            "oldPriceEuro": "3.06",
+            "discount": "21%"
+          }
+        }
+      ],
+      "selectedVariation": "FA203FC091BJJNAFAMZ-130516048"
+    },
+    {
+      "sku": "FA203SH33G9E0NAFAMZ",
+      "name": "Men's Smart Fit Sneakers",
+      "displayName": "Men's Smart Fit Sneakers",
+      "brand": "Fashion",
+      "sellerId": 6204,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers",
+      "prices": {
+        "rawPrice": "4790.00",
+        "price": "₦ 4,790 - ₦ 5,790",
+        "priceEuro": "9.78",
+        "taxEuro": "0.68"
+      },
+      "tags": "BF22|BF22_12|BFEST_12|Boost|COL_272|CP_63|CP_MT103|CP_MT104|CP_MT105|CP_MT114|CP_MT129|CP_MT131|CP_MT134|CP_MT136|CP_MT138|CP_MT139|CP_MT14|CP_MT143|CP_MT145|CP_MT31|CP_MT45|CP_MT95|CP_MT96|CP_MT97|DOW_85|FDYJE|INF_95|JA22|JA22_3|PRE|TBOOST|XMAS|XMAS22_01|XMAS22_04|XMAS22_06",
+      "rating": {
+        "average": 4.2,
+        "totalRatings": 264
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/1960401/1.jpg?1681",
+      "url": "/fashion-mens-smart-fit-sneakers-104069178.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203SH33G9E0NAFAMZ-142103159",
+          "loginUrl": "/customer/account/login/?tkWl=FA203SH33G9E0NAFAMZ-142103159&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "42",
+          "prices": {
+            "rawPrice": "5490.00",
+            "price": "₦ 5,490",
+            "priceEuro": "11.21",
+            "taxEuro": "0.78"
+          }
+        },
+        {
+          "sku": "FA203SH33G9E0NAFAMZ-142103156",
+          "loginUrl": "/customer/account/login/?tkWl=FA203SH33G9E0NAFAMZ-142103156&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "43",
+          "prices": {
+            "rawPrice": "5790.00",
+            "price": "₦ 5,790",
+            "priceEuro": "11.83",
+            "taxEuro": "0.83"
+          }
+        },
+        {
+          "sku": "FA203SH33G9E0NAFAMZ-142103157",
+          "loginUrl": "/customer/account/login/?tkWl=FA203SH33G9E0NAFAMZ-142103157&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "44",
+          "prices": {
+            "rawPrice": "5490.00",
+            "price": "₦ 5,490",
+            "priceEuro": "11.21",
+            "taxEuro": "0.78"
+          }
+        },
+        {
+          "sku": "FA203SH33G9E0NAFAMZ-142103161",
+          "loginUrl": "/customer/account/login/?tkWl=FA203SH33G9E0NAFAMZ-142103161&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "45",
+          "prices": {
+            "rawPrice": "5790.00",
+            "price": "₦ 5,790",
+            "priceEuro": "11.83",
+            "taxEuro": "0.83"
+          }
+        },
+        {
+          "sku": "FA203SH33G9E0NAFAMZ-142103153",
+          "loginUrl": "/customer/account/login/?tkWl=FA203SH33G9E0NAFAMZ-142103153&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "41",
+          "prices": {
+            "rawPrice": "5490.00",
+            "price": "₦ 5,490",
+            "priceEuro": "11.21",
+            "taxEuro": "0.78"
+          }
+        },
+        {
+          "sku": "FA203SH33G9E0NAFAMZ-142103163",
+          "loginUrl": "/customer/account/login/?tkWl=FA203SH33G9E0NAFAMZ-142103163&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "40",
+          "prices": {
+            "rawPrice": "5490.00",
+            "price": "₦ 5,490",
+            "priceEuro": "11.21",
+            "taxEuro": "0.78"
+          }
+        },
+        {
+          "sku": "FA203SH33G9E0NAFAMZ-142103152",
+          "loginUrl": "/customer/account/login/?tkWl=FA203SH33G9E0NAFAMZ-142103152&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "39",
+          "prices": {
+            "rawPrice": "4790.00",
+            "price": "₦ 4,790",
+            "priceEuro": "9.78",
+            "taxEuro": "0.68"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203MW19EIUGNAFAMZ",
+      "name": "5 Pcs Mens Cotton T-shirts Short Sleeve Tees",
+      "displayName": "5 Pcs Mens Cotton T-shirts Short Sleeve Tees",
+      "brand": "Fashion",
+      "sellerId": 206759,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/T-Shirts & Tanks/T-shirts",
+      "prices": {
+        "rawPrice": "9900.00",
+        "price": "₦ 9,900",
+        "priceEuro": "20.22",
+        "taxEuro": "1.41",
+        "oldPrice": "₦ 20,000 - ₦ 29,333",
+        "oldPriceEuro": "40.85",
+        "discount": "66%"
+      },
+      "tags": "BF22|BF22_12|CP_MT102|CP_MT103|CP_MT105|CP_MT114|CP_MT128|CP_MT131|CP_MT134|CP_MT136|CP_MT139|CP_MT71|CP_MT88|CP_MT96|CP_UN130|CP_UN200|CP_UN78|FDYJE|INF_95|JA22|JA22_3|TBOOST|XMAS|XMAS22_01",
+      "rating": {
+        "average": 3.9,
+        "totalRatings": 113
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/76/260328/1.jpg?9451",
+      "url": "/fashion-5-pcs-mens-cotton-t-shirts-short-sleeve-tees-82306267.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203MW19EIUGNAFAMZ-112651002",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19EIUGNAFAMZ-112651002&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "9900.00",
+            "price": "₦ 9,900",
+            "priceEuro": "20.22",
+            "taxEuro": "1.41",
+            "oldPrice": "₦ 29,333",
+            "oldPriceEuro": "59.91",
+            "discount": "66%"
+          }
+        },
+        {
+          "sku": "FA203MW19EIUGNAFAMZ-112651003",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19EIUGNAFAMZ-112651003&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "9900.00",
+            "price": "₦ 9,900",
+            "priceEuro": "20.22",
+            "taxEuro": "1.41",
+            "oldPrice": "₦ 29,333",
+            "oldPriceEuro": "59.91",
+            "discount": "66%"
+          }
+        },
+        {
+          "sku": "FA203MW19EIUGNAFAMZ-112651004",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19EIUGNAFAMZ-112651004&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "9900.00",
+            "price": "₦ 9,900",
+            "priceEuro": "20.22",
+            "taxEuro": "1.41",
+            "oldPrice": "₦ 20,000",
+            "oldPriceEuro": "40.85",
+            "discount": "51%"
+          }
+        },
+        {
+          "sku": "FA203MW19EIUGNAFAMZ-112651005",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW19EIUGNAFAMZ-112651005&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "9900.00",
+            "price": "₦ 9,900",
+            "priceEuro": "20.22",
+            "taxEuro": "1.41",
+            "oldPrice": "₦ 20,000",
+            "oldPriceEuro": "40.85",
+            "discount": "51%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203FS225D2KNAFAMZ",
+      "name": "Men's Waterproof Business Shoes - Black",
+      "displayName": "Men's Waterproof Business Shoes - Black",
+      "brand": "Fashion",
+      "sellerId": 80327,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Formal Shoes",
+      "prices": {
+        "rawPrice": "4980.00",
+        "price": "₦ 4,980",
+        "priceEuro": "10.17",
+        "taxEuro": "0.71",
+        "oldPrice": "₦ 6,000",
+        "oldPriceEuro": "12.26",
+        "discount": "17%"
+      },
+      "tags": "Boost|CP_63|CP_MT102|CP_MT114|CP_MT14|CP_MT88|CP_UN130|CP_UN200|CP_UN78|FDYJE|XMAS|XMAS22_01",
+      "rating": {
+        "average": 4.1,
+        "totalRatings": 12
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/24/5418041/1.jpg?3817",
+      "url": "/fashion-mens-waterproof-business-shoes-black-140814542.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203FS225D2KNAFAMZ-196031740",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS225D2KNAFAMZ-196031740&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 40",
+          "prices": {
+            "rawPrice": "4980.00",
+            "price": "₦ 4,980",
+            "priceEuro": "10.17",
+            "taxEuro": "0.71",
+            "oldPrice": "₦ 6,000",
+            "oldPriceEuro": "12.26",
+            "discount": "17%"
+          }
+        },
+        {
+          "sku": "FA203FS225D2KNAFAMZ-196031751",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS225D2KNAFAMZ-196031751&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 41",
+          "prices": {
+            "rawPrice": "4980.00",
+            "price": "₦ 4,980",
+            "priceEuro": "10.17",
+            "taxEuro": "0.71",
+            "oldPrice": "₦ 6,000",
+            "oldPriceEuro": "12.26",
+            "discount": "17%"
+          }
+        },
+        {
+          "sku": "FA203FS225D2KNAFAMZ-196031762",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS225D2KNAFAMZ-196031762&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "4980.00",
+            "price": "₦ 4,980",
+            "priceEuro": "10.17",
+            "taxEuro": "0.71",
+            "oldPrice": "₦ 6,000",
+            "oldPriceEuro": "12.26",
+            "discount": "17%"
+          }
+        },
+        {
+          "sku": "FA203FS225D2KNAFAMZ-196031771",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS225D2KNAFAMZ-196031771&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "4980.00",
+            "price": "₦ 4,980",
+            "priceEuro": "10.17",
+            "taxEuro": "0.71",
+            "oldPrice": "₦ 6,000",
+            "oldPriceEuro": "12.26",
+            "discount": "17%"
+          }
+        },
+        {
+          "sku": "FA203FS225D2KNAFAMZ-196031788",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS225D2KNAFAMZ-196031788&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "4980.00",
+            "price": "₦ 4,980",
+            "priceEuro": "10.17",
+            "taxEuro": "0.71",
+            "oldPrice": "₦ 6,000",
+            "oldPriceEuro": "12.26",
+            "discount": "17%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "WE732FS18DL3KNAFAMZ",
+      "name": "2021 Mens Casual Noble Shoes Running Sneakers - Black/Gold",
+      "displayName": "2021 Mens Casual Noble Shoes Running Sneakers - Black/Gold",
+      "brand": "Fashion",
+      "sellerId": 246213,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers/Sneakers",
+      "prices": {
+        "rawPrice": "3999.00",
+        "price": "₦ 3,999 - ₦ 6,199",
+        "priceEuro": "8.17",
+        "taxEuro": "0.57",
+        "oldPrice": "₦ 13,888",
+        "oldPriceEuro": "28.37",
+        "discount": "71%"
+      },
+      "tags": "BF21_UN3|BF22_12|Boost|CP_63|CP_MT102|CP_MT103|CP_MT105|CP_MT114|CP_MT129|CP_MT131|CP_MT134|CP_MT136|CP_MT138|CP_MT139|CP_MT14|CP_MT145|CP_MT149|CP_MT15|CP_MT150|CP_MT23|CP_MT25|CP_MT3|CP_MT31|CP_MT36|CP_MT45|CP_MT46|CP_MT49|CP_MT54|CP_MT56|CP_MT63|CP_MT7|CP_MT71|CP_MT73|CP_MT75|CP_MT76|CP_MT86|CP_MT88|CP_MT91|CP_MT95|CP_MT96|CP_MT97|CP_UN130|CP_UN153|CP_UN176|CP_UN200|CP_UN217|CP_UN251|CP_UN33|CP_UN58|CP_UN78|CP_UN92|Camp_25|Camp_35|Camp_4|Camp_45|DOD_5|DOW_294|DOW_305|DOW_311|DOW_85|FDY2020|FDYJE|INF_94|INF_99|JA22|JA22_3|MLP102|Merch_150|Merch_190|Merch_35|RSCRE|TBOOST|XMAS|XMAS22_01|XMAS22_04|XMAS22_06",
+      "rating": {
+        "average": 3.9,
+        "totalRatings": 1217
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/74/536976/1.jpg?9999",
+      "url": "/fashion-2021-mens-casual-noble-shoes-running-sneakers-blackgold-67963547.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "WE732FS18DL3KNAFAMZ-95272408",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS18DL3KNAFAMZ-95272408&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 39",
+          "prices": {
+            "rawPrice": "6199.00",
+            "price": "₦ 6,199",
+            "priceEuro": "12.66",
+            "taxEuro": "0.88",
+            "oldPrice": "₦ 13,888",
+            "oldPriceEuro": "28.37",
+            "discount": "55%"
+          }
+        },
+        {
+          "sku": "WE732FS18DL3KNAFAMZ-95272409",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS18DL3KNAFAMZ-95272409&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 40",
+          "prices": {
+            "rawPrice": "4999.00",
+            "price": "₦ 4,999",
+            "priceEuro": "10.21",
+            "taxEuro": "0.71",
+            "oldPrice": "₦ 13,888",
+            "oldPriceEuro": "28.37",
+            "discount": "64%"
+          }
+        },
+        {
+          "sku": "WE732FS18DL3KNAFAMZ-95272410",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS18DL3KNAFAMZ-95272410&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 41",
+          "prices": {
+            "rawPrice": "3999.00",
+            "price": "₦ 3,999",
+            "priceEuro": "8.17",
+            "taxEuro": "0.57",
+            "oldPrice": "₦ 13,888",
+            "oldPriceEuro": "28.37",
+            "discount": "71%"
+          }
+        },
+        {
+          "sku": "WE732FS18DL3KNAFAMZ-95272411",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS18DL3KNAFAMZ-95272411&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "6199.00",
+            "price": "₦ 6,199",
+            "priceEuro": "12.66",
+            "taxEuro": "0.88",
+            "oldPrice": "₦ 13,888",
+            "oldPriceEuro": "28.37",
+            "discount": "55%"
+          }
+        },
+        {
+          "sku": "WE732FS18DL3KNAFAMZ-95272412",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS18DL3KNAFAMZ-95272412&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "6199.00",
+            "price": "₦ 6,199",
+            "priceEuro": "12.66",
+            "taxEuro": "0.88",
+            "oldPrice": "₦ 13,888",
+            "oldPriceEuro": "28.37",
+            "discount": "55%"
+          }
+        },
+        {
+          "sku": "WE732FS18DL3KNAFAMZ-95272413",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS18DL3KNAFAMZ-95272413&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "6199.00",
+            "price": "₦ 6,199",
+            "priceEuro": "12.66",
+            "taxEuro": "0.88",
+            "oldPrice": "₦ 13,888",
+            "oldPriceEuro": "28.37",
+            "discount": "55%"
+          }
+        },
+        {
+          "sku": "WE732FS18DL3KNAFAMZ-113097868",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS18DL3KNAFAMZ-113097868&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 45",
+          "prices": {
+            "rawPrice": "6199.00",
+            "price": "₦ 6,199",
+            "priceEuro": "12.66",
+            "taxEuro": "0.88",
+            "oldPrice": "₦ 13,888",
+            "oldPriceEuro": "28.37",
+            "discount": "55%"
+          }
+        },
+        {
+          "sku": "WE732FS18DL3KNAFAMZ-113097869",
+          "loginUrl": "/customer/account/login/?tkWl=WE732FS18DL3KNAFAMZ-113097869&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 46",
+          "prices": {
+            "rawPrice": "6199.00",
+            "price": "₦ 6,199",
+            "priceEuro": "12.66",
+            "taxEuro": "0.88",
+            "oldPrice": "₦ 13,888",
+            "oldPriceEuro": "28.37",
+            "discount": "55%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203FS2B4Y5UNAFAMZ",
+      "name": "Mid-Sole Denim Sneakers - Sky Blue",
+      "displayName": "Mid-Sole Denim Sneakers - Sky Blue",
+      "brand": "Fashion",
+      "sellerId": 6204,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers/Sneakers",
+      "prices": {
+        "rawPrice": "3990.00",
+        "price": "₦ 3,990",
+        "priceEuro": "8.15",
+        "taxEuro": "0.57"
+      },
+      "tags": "BF22|CP_63|CP_MT136|CP_MT14|CP_MT31|CP_MT95|CP_MT97|CP_UN219|FDYJE",
+      "rating": {
+        "average": 4.1,
+        "totalRatings": 39
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/39/6390261/1.jpg?0608",
+      "url": "/fashion-mid-sole-denim-sneakers-sky-blue-162093693.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203FS2B4Y5UNAFAMZ-241341434",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2B4Y5UNAFAMZ-241341434&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 39",
+          "prices": {
+            "rawPrice": "2290.00",
+            "price": "₦ 2,290",
+            "priceEuro": "4.68",
+            "taxEuro": "0.33"
+          }
+        },
+        {
+          "sku": "FA203FS2B4Y5UNAFAMZ-241341436",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2B4Y5UNAFAMZ-241341436&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 40",
+          "prices": {
+            "rawPrice": "3990.00",
+            "price": "₦ 3,990",
+            "priceEuro": "8.15",
+            "taxEuro": "0.57"
+          }
+        },
+        {
+          "sku": "FA203FS2B4Y5UNAFAMZ-241341437",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2B4Y5UNAFAMZ-241341437&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 41",
+          "prices": {
+            "rawPrice": "3990.00",
+            "price": "₦ 3,990",
+            "priceEuro": "8.15",
+            "taxEuro": "0.57"
+          }
+        },
+        {
+          "sku": "FA203FS2B4Y5UNAFAMZ-241341439",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2B4Y5UNAFAMZ-241341439&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "3990.00",
+            "price": "₦ 3,990",
+            "priceEuro": "8.15",
+            "taxEuro": "0.57"
+          }
+        },
+        {
+          "sku": "FA203FS2B4Y5UNAFAMZ-241341440",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2B4Y5UNAFAMZ-241341440&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "3990.00",
+            "price": "₦ 3,990",
+            "priceEuro": "8.15",
+            "taxEuro": "0.57"
+          }
+        },
+        {
+          "sku": "FA203FS2B4Y5UNAFAMZ-241341442",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2B4Y5UNAFAMZ-241341442&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "3990.00",
+            "price": "₦ 3,990",
+            "priceEuro": "8.15",
+            "taxEuro": "0.57"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203FS0R41JDNAFAMZ",
+      "name": "2021 Men's Casual Classic Shoes -Grey",
+      "displayName": "2021 Men's Casual Classic Shoes -Grey",
+      "brand": "Fashion",
+      "sellerId": 285117,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers/Sneakers",
+      "prices": {
+        "rawPrice": "5999.00",
+        "price": "₦ 5,999 - ₦ 7,499",
+        "priceEuro": "12.25",
+        "taxEuro": "0.85",
+        "oldPrice": "₦ 16,000",
+        "oldPriceEuro": "32.68",
+        "discount": "63%"
+      },
+      "tags": "BF22_12|Boost|CP_63|CP_MT102|CP_MT114|CP_MT136|CP_MT14|CP_MT145|CP_MT149|CP_MT150|CP_MT31|CP_MT88|CP_MT95|CP_MT96|CP_MT97|CP_UN130|CP_UN200|CP_UN219|CP_UN78|DOW_305|DOW_85|FDYJE|RSCRE|TBOOST|XMAS|XMAS22_01|XMAS22_04|XMAS22_06",
+      "rating": {
+        "average": 4.3,
+        "totalRatings": 171
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/538249/1.jpg?9115",
+      "url": "/fashion-2021-mens-casual-classic-shoes-grey-94283554.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203FS0R41JDNAFAMZ-129020096",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS0R41JDNAFAMZ-129020096&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 39",
+          "prices": {
+            "rawPrice": "7499.00",
+            "price": "₦ 7,499",
+            "priceEuro": "15.32",
+            "taxEuro": "1.07",
+            "oldPrice": "₦ 16,000",
+            "oldPriceEuro": "32.68",
+            "discount": "53%"
+          }
+        },
+        {
+          "sku": "FA203FS0R41JDNAFAMZ-129020097",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS0R41JDNAFAMZ-129020097&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 40",
+          "prices": {
+            "rawPrice": "5999.00",
+            "price": "₦ 5,999",
+            "priceEuro": "12.25",
+            "taxEuro": "0.85",
+            "oldPrice": "₦ 16,000",
+            "oldPriceEuro": "32.68",
+            "discount": "63%"
+          }
+        },
+        {
+          "sku": "FA203FS0R41JDNAFAMZ-129020098",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS0R41JDNAFAMZ-129020098&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 41",
+          "prices": {
+            "rawPrice": "5999.00",
+            "price": "₦ 5,999",
+            "priceEuro": "12.25",
+            "taxEuro": "0.85",
+            "oldPrice": "₦ 16,000",
+            "oldPriceEuro": "32.68",
+            "discount": "63%"
+          }
+        },
+        {
+          "sku": "FA203FS0R41JDNAFAMZ-129020099",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS0R41JDNAFAMZ-129020099&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "7499.00",
+            "price": "₦ 7,499",
+            "priceEuro": "15.32",
+            "taxEuro": "1.07",
+            "oldPrice": "₦ 16,000",
+            "oldPriceEuro": "32.68",
+            "discount": "53%"
+          }
+        },
+        {
+          "sku": "FA203FS0R41JDNAFAMZ-129020100",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS0R41JDNAFAMZ-129020100&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "7499.00",
+            "price": "₦ 7,499",
+            "priceEuro": "15.32",
+            "taxEuro": "1.07",
+            "oldPrice": "₦ 16,000",
+            "oldPriceEuro": "32.68",
+            "discount": "53%"
+          }
+        },
+        {
+          "sku": "FA203FS0R41JDNAFAMZ-129020101",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS0R41JDNAFAMZ-129020101&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "7499.00",
+            "price": "₦ 7,499",
+            "priceEuro": "15.32",
+            "taxEuro": "1.07",
+            "oldPrice": "₦ 16,000",
+            "oldPriceEuro": "32.68",
+            "discount": "53%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203FS2I4UK8NAFAMZ",
+      "name": "Men's Sneakers Canvas-Black And White",
+      "displayName": "Men's Sneakers Canvas-Black And White",
+      "brand": "Fashion",
+      "sellerId": 309492,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers/Sneakers/Low-cut",
+      "prices": {
+        "rawPrice": "7599.00",
+        "price": "₦ 7,599",
+        "priceEuro": "15.52",
+        "taxEuro": "1.08",
+        "oldPrice": "₦ 11,000",
+        "oldPriceEuro": "22.47",
+        "discount": "31%"
+      },
+      "tags": "Boost|COL_272|CP_MT136|CP_MT14|CP_MT31|XMAS|XMAS22_04",
+      "rating": {
+        "average": 4,
+        "totalRatings": 11
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/51/3916721/1.jpg?1663",
+      "url": "/fashion-mens-sneakers-canvas-black-and-white-127619315.html",
+      "isBuyable": true,
+      "simples": [
+        {
+          "sku": "FA203FS2I4UK8NAFAMZ-174873521",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2I4UK8NAFAMZ-174873521&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "7599.00",
+            "price": "₦ 7,599",
+            "priceEuro": "15.52",
+            "taxEuro": "1.08",
+            "oldPrice": "₦ 11,000",
+            "oldPriceEuro": "22.47",
+            "discount": "31%"
+          }
+        },
+        {
+          "sku": "FA203FS2I4UK8NAFAMZ-174873522",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2I4UK8NAFAMZ-174873522&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "7599.00",
+            "price": "₦ 7,599",
+            "priceEuro": "15.52",
+            "taxEuro": "1.08",
+            "oldPrice": "₦ 11,000",
+            "oldPriceEuro": "22.47",
+            "discount": "31%"
+          }
+        },
+        {
+          "sku": "FA203FS2I4UK8NAFAMZ-174873525",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2I4UK8NAFAMZ-174873525&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "7599.00",
+            "price": "₦ 7,599",
+            "priceEuro": "15.52",
+            "taxEuro": "1.08",
+            "oldPrice": "₦ 11,000",
+            "oldPriceEuro": "22.47",
+            "discount": "31%"
+          }
+        },
+        {
+          "sku": "FA203FS2I4UK8NAFAMZ-174873527",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2I4UK8NAFAMZ-174873527&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 45",
+          "prices": {
+            "rawPrice": "7599.00",
+            "price": "₦ 7,599",
+            "priceEuro": "15.52",
+            "taxEuro": "1.08",
+            "oldPrice": "₦ 11,000",
+            "oldPriceEuro": "22.47",
+            "discount": "31%"
+          }
+        },
+        {
+          "sku": "FA203FS2I4UK8NAFAMZ-174873528",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2I4UK8NAFAMZ-174873528&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 46",
+          "prices": {
+            "rawPrice": "7599.00",
+            "price": "₦ 7,599",
+            "priceEuro": "15.52",
+            "taxEuro": "1.08",
+            "oldPrice": "₦ 11,000",
+            "oldPriceEuro": "22.47",
+            "discount": "31%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "MI608MW10I796NAFAMZ",
+      "name": "New Vintage Women Printed O Neck Mini Dress Retro Pattern Half Sleeve Bodycon Dress",
+      "displayName": "Mixfeer New Vintage Women Printed O Neck Mini Dress Retro Pattern Half Sleeve Bodycon Dress",
+      "brand": "Mixfeer",
+      "sellerId": 115528,
+      "isShopExpress": true,
+      "categories": "Fashion/Women's Fashion/Clothing/Dresses/Casual Dresses",
+      "prices": {
+        "rawPrice": "1450.00",
+        "price": "₦ 1,450",
+        "priceEuro": "2.96",
+        "taxEuro": "0.21",
+        "oldPrice": "₦ 2,843",
+        "oldPriceEuro": "5.81",
+        "discount": "49%"
+      },
+      "tags": "BF22_12|COL_320|CP_67|CP_MT114|CP_MT136|CP_MT96|DOW_305|DOW_317|FDYJE|PRE|TBOOST|XMAS|XMAS22_01",
+      "rating": {
+        "average": 4.5,
+        "totalRatings": 35
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/61/315386/1.jpg?7264",
+      "url": "/mixfeer-new-vintage-women-printed-o-neck-mini-dress-retro-pattern-half-sleeve-bodycon-dress-68351316.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "MI608MW10I796NAFAMZ-95739173",
+          "loginUrl": "/customer/account/login/?tkWl=MI608MW10I796NAFAMZ-95739173&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "S",
+          "prices": {
+            "rawPrice": "1450.00",
+            "price": "₦ 1,450",
+            "priceEuro": "2.96",
+            "taxEuro": "0.21",
+            "oldPrice": "₦ 2,843",
+            "oldPriceEuro": "5.81",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "MI608MW10I796NAFAMZ-95739172",
+          "loginUrl": "/customer/account/login/?tkWl=MI608MW10I796NAFAMZ-95739172&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "M",
+          "prices": {
+            "rawPrice": "1450.00",
+            "price": "₦ 1,450",
+            "priceEuro": "2.96",
+            "taxEuro": "0.21",
+            "oldPrice": "₦ 2,843",
+            "oldPriceEuro": "5.81",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "MI608MW10I796NAFAMZ-95739171",
+          "loginUrl": "/customer/account/login/?tkWl=MI608MW10I796NAFAMZ-95739171&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "L",
+          "prices": {
+            "rawPrice": "1450.00",
+            "price": "₦ 1,450",
+            "priceEuro": "2.96",
+            "taxEuro": "0.21",
+            "oldPrice": "₦ 2,843",
+            "oldPriceEuro": "5.81",
+            "discount": "49%"
+          }
+        },
+        {
+          "sku": "MI608MW10I796NAFAMZ-95739169",
+          "loginUrl": "/customer/account/login/?tkWl=MI608MW10I796NAFAMZ-95739169&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "1450.00",
+            "price": "₦ 1,450",
+            "priceEuro": "2.96",
+            "taxEuro": "0.21",
+            "oldPrice": "₦ 2,843",
+            "oldPriceEuro": "5.81",
+            "discount": "49%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203FS2LJDKBNAFAMZ",
+      "name": "Men's Fashion Sneakers Running Shoes",
+      "displayName": "Men's Fashion Sneakers Running Shoes",
+      "brand": "Fashion",
+      "sellerId": 109703,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Shoes/Fashion Sneakers/Sneakers/Low-cut",
+      "prices": {
+        "rawPrice": "6495.00",
+        "price": "₦ 6,495",
+        "priceEuro": "13.27",
+        "taxEuro": "0.93",
+        "oldPrice": "₦ 10,150",
+        "oldPriceEuro": "20.73",
+        "discount": "36%"
+      },
+      "tags": "Boost|CP_63|CP_MT102|CP_MT114|CP_MT131|CP_MT136|CP_MT14|CP_MT149|CP_MT150|CP_MT31|CP_MT88|CP_MT95|CP_MT96|CP_MT97|CP_UN130|CP_UN200|CP_UN219|CP_UN78|FDYJE|XMAS|XMAS22_01|XMAS22_04",
+      "rating": {
+        "average": 4.5,
+        "totalRatings": 88
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/57/1083311/1.jpg?8105",
+      "url": "/fashion-mens-fashion-sneakers-running-shoes-113380175.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203FS2LJDKBNAFAMZ-155677430",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2LJDKBNAFAMZ-155677430&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 40",
+          "prices": {
+            "rawPrice": "6495.00",
+            "price": "₦ 6,495",
+            "priceEuro": "13.27",
+            "taxEuro": "0.93",
+            "oldPrice": "₦ 10,150",
+            "oldPriceEuro": "20.73",
+            "discount": "36%"
+          }
+        },
+        {
+          "sku": "FA203FS2LJDKBNAFAMZ-155677471",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2LJDKBNAFAMZ-155677471&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 41",
+          "prices": {
+            "rawPrice": "6495.00",
+            "price": "₦ 6,495",
+            "priceEuro": "13.27",
+            "taxEuro": "0.93",
+            "oldPrice": "₦ 10,150",
+            "oldPriceEuro": "20.73",
+            "discount": "36%"
+          }
+        },
+        {
+          "sku": "FA203FS2LJDKBNAFAMZ-155677517",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2LJDKBNAFAMZ-155677517&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 42",
+          "prices": {
+            "rawPrice": "6495.00",
+            "price": "₦ 6,495",
+            "priceEuro": "13.27",
+            "taxEuro": "0.93",
+            "oldPrice": "₦ 10,150",
+            "oldPriceEuro": "20.73",
+            "discount": "36%"
+          }
+        },
+        {
+          "sku": "FA203FS2LJDKBNAFAMZ-155677537",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2LJDKBNAFAMZ-155677537&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 43",
+          "prices": {
+            "rawPrice": "6495.00",
+            "price": "₦ 6,495",
+            "priceEuro": "13.27",
+            "taxEuro": "0.93",
+            "oldPrice": "₦ 10,150",
+            "oldPriceEuro": "20.73",
+            "discount": "36%"
+          }
+        },
+        {
+          "sku": "FA203FS2LJDKBNAFAMZ-155677554",
+          "loginUrl": "/customer/account/login/?tkWl=FA203FS2LJDKBNAFAMZ-155677554&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "EU 44",
+          "prices": {
+            "rawPrice": "6495.00",
+            "price": "₦ 6,495",
+            "priceEuro": "13.27",
+            "taxEuro": "0.93",
+            "oldPrice": "₦ 10,150",
+            "oldPriceEuro": "20.73",
+            "discount": "36%"
+          }
+        }
+      ],
+      "variationSelection": true
+    },
+    {
+      "sku": "FA203MW2GWGJBNAFAMZ",
+      "name": "2 In 1 Men's Short Sleeve Shorts Set - White",
+      "displayName": "2 In 1 Men's Short Sleeve Shorts Set - White",
+      "brand": "Fashion",
+      "sellerId": 238174,
+      "isShopExpress": true,
+      "categories": "Fashion/Men's Fashion/Clothing/Shirts/T-Shirts",
+      "prices": {
+        "rawPrice": "5647.00",
+        "price": "₦ 5,647",
+        "priceEuro": "11.53",
+        "taxEuro": "0.80",
+        "oldPrice": "₦ 10,065",
+        "oldPriceEuro": "20.56",
+        "discount": "44%"
+      },
+      "tags": "BF22_12|Boost|CP_MT102|CP_MT114|CP_MT145|CP_MT149|CP_MT150|CP_MT88|CP_MT96|CP_UN130|CP_UN200|CP_UN78|DOW_305|DOW_85|FDYJE|INF_38|INF_95|MLP102|TBOOST|XMAS|XMAS22_01|XMAS22_06",
+      "rating": {
+        "average": 3.6,
+        "totalRatings": 45
+      },
+      "image": "https://ng.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/49/3206311/1.jpg?5363",
+      "url": "/fashion-2-in-1-mens-short-sleeve-shorts-set-white-113602394.html",
+      "badges": {
+        "campaign": {
+          "name": "FDYJE",
+          "identifier": "FDYJE",
+          "image": "https://ng.jumia.is/badges/fdyje/3/138x18.png?8589",
+          "url": "/all-products/?tag=FDYJE"
+        }
+      },
+      "isBuyable": true,
+      "shopExpress": {
+        "title": "Express Shipping"
+      },
+      "simples": [
+        {
+          "sku": "FA203MW2GWGJBNAFAMZ-156278503",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW2GWGJBNAFAMZ-156278503&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "S",
+          "prices": {
+            "rawPrice": "5999.00",
+            "price": "₦ 5,999",
+            "priceEuro": "12.25",
+            "taxEuro": "0.85",
+            "oldPrice": "₦ 13,798",
+            "oldPriceEuro": "28.18",
+            "discount": "57%"
+          }
+        },
+        {
+          "sku": "FA203MW2GWGJBNAFAMZ-156278504",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW2GWGJBNAFAMZ-156278504&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "M",
+          "prices": {
+            "rawPrice": "5647.00",
+            "price": "₦ 5,647",
+            "priceEuro": "11.53",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 10,065",
+            "oldPriceEuro": "20.56",
+            "discount": "44%"
+          }
+        },
+        {
+          "sku": "FA203MW2GWGJBNAFAMZ-156278505",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW2GWGJBNAFAMZ-156278505&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "L",
+          "prices": {
+            "rawPrice": "5647.00",
+            "price": "₦ 5,647",
+            "priceEuro": "11.53",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 10,065",
+            "oldPriceEuro": "20.56",
+            "discount": "44%"
+          }
+        },
+        {
+          "sku": "FA203MW2GWGJBNAFAMZ-156278506",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW2GWGJBNAFAMZ-156278506&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XL",
+          "prices": {
+            "rawPrice": "5647.00",
+            "price": "₦ 5,647",
+            "priceEuro": "11.53",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 10,065",
+            "oldPriceEuro": "20.56",
+            "discount": "44%"
+          }
+        },
+        {
+          "sku": "FA203MW2GWGJBNAFAMZ-156278507",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW2GWGJBNAFAMZ-156278507&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXL",
+          "prices": {
+            "rawPrice": "5647.00",
+            "price": "₦ 5,647",
+            "priceEuro": "11.53",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 10,065",
+            "oldPriceEuro": "20.56",
+            "discount": "44%"
+          }
+        },
+        {
+          "sku": "FA203MW2GWGJBNAFAMZ-156278508",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW2GWGJBNAFAMZ-156278508&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXL",
+          "prices": {
+            "rawPrice": "5647.00",
+            "price": "₦ 5,647",
+            "priceEuro": "11.53",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 10,065",
+            "oldPriceEuro": "20.56",
+            "discount": "44%"
+          }
+        },
+        {
+          "sku": "FA203MW2GWGJBNAFAMZ-156278509",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW2GWGJBNAFAMZ-156278509&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": true,
+          "name": "XXXXL",
+          "prices": {
+            "rawPrice": "5647.00",
+            "price": "₦ 5,647",
+            "priceEuro": "11.53",
+            "taxEuro": "0.80",
+            "oldPrice": "₦ 10,065",
+            "oldPriceEuro": "20.56",
+            "discount": "44%"
+          }
+        },
+        {
+          "sku": "FA203MW2GWGJBNAFAMZ-185413649",
+          "loginUrl": "/customer/account/login/?tkWl=FA203MW2GWGJBNAFAMZ-185413649&return=%2Fmlp-fashion-deals%2Fcategory-fashion-by-jumia%2F",
+          "isBuyable": false,
+          "name": "XXXXXL",
+          "prices": {
+            "rawPrice": "5999.00",
+            "price": "₦ 5,999",
+            "priceEuro": "12.25",
+            "taxEuro": "0.85",
+            "oldPrice": "₦ 13,798",
+            "oldPriceEuro": "28.18",
+            "discount": "57%"
+          }
+        }
+      ],
+      "variationSelection": true
+    }
+]
